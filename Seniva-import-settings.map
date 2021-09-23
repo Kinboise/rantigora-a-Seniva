@@ -1,0 +1,122 @@
+
+<!--=====================================================================
+Created via the Lexical Import process: 2021/3/24 11:28:02
+===================================================================== -->
+<sfmMapping version="6.1">
+
+<!--=====================================================================
+Global Settings
+===================================================================== -->
+<settings>
+<meaning app="fw.sil.org"/>
+</settings>
+
+<!--=====================================================================
+Import Options
+===================================================================== -->
+<options>
+<option id="chkCreateMissingLinks" type="Checkbox" checked="False"/>
+</options>
+
+<!--=====================================================================
+Language Definitions
+===================================================================== -->
+<languages>
+<langDef id="National" xml:lang="不理"/>
+<langDef id="Regional" xml:lang="不理"/>
+<langDef id="Vernacular" xml:lang="und"/>
+<langDef id="English" xml:lang="en"/>
+</languages>
+
+<!--=====================================================================
+Level Hierarchy
+===================================================================== -->
+<hierarchy>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="cf lc cn dt" multiFields="cf lc cn"/>
+<level name="Etymology" partOf="Entry Subentry" beginFields="et"/>
+<level name="Example" partOf="Sense" beginFields="xv"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="不理" additionalFields="xn" multiFields="xn"/>
+<level name="Function" partOf="Entry Subentry Sense" beginFields="不理"/>
+<level name="Picture" partOf="Sense" beginFields="不理"/>
+<level name="Pronunciation" partOf="Entry Subentry" beginFields="ph"/>
+<level name="SemanticDomain" partOf="Sense" beginFields="不理"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="sn ps" additionalFields="an dn gn nt sy" multiFields="an dn gn nt sy"/>
+<level name="Subentry" partOf="Entry" beginFields="se" uniqueFields="se"/>
+<level name="Variant" partOf="Entry Subentry Sense" beginFields="va" additionalFields="vn" multiFields="vn" uniqueFields="va"/>
+</hierarchy>
+
+<!--=====================================================================
+Field Descriptions
+===================================================================== -->
+<fieldDescriptions>
+<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lex"/>
+</field>
+<field sfm="ph" name="Pronunciation Form" type="string" lang="不明" >
+<meaning app="fw.sil.org" id="prnf"/>
+</field>
+<field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="pos"/>
+</field>
+<field sfm="gn" name="Gloss" type="string" lang="National (不理)" >
+<meaning app="fw.sil.org" id="glos"/>
+</field>
+<field sfm="lc" name="Citation Form (Entry)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cit"/>
+</field>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="nt" name="General Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="gnote"/>
+</field>
+<field sfm="cf" name="Cross Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cref" funcWS="en" func="Compare"/>
+</field>
+<field sfm="xv" name="Example" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sent"/>
+</field>
+<field sfm="xn" name="Example Translation" type="string" lang="National (不理)" >
+<meaning app="fw.sil.org" id="trans"/>
+</field>
+<field sfm="cn" name="Import Residue (Entry)" type="string" lang="National (不理)" >
+<meaning app="fw.sil.org" id="eires"/>
+</field>
+<field sfm="dn" name="Definition" type="string" lang="National (不理)" >
+<meaning app="fw.sil.org" id="def"/>
+</field>
+<field sfm="se" name="Subentry/Complex Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
+</field>
+<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Unspecified Variant"/>
+</field>
+<field sfm="sn" name="Sense Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sn"/>
+</field>
+<field sfm="vn" name="Comment (Variant)" type="string" lang="National (不理)" >
+<meaning app="fw.sil.org" id="varc"/>
+</field>
+<field sfm="an" name="Lexical Relation" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Antonym"/>
+</field>
+<field sfm="et" name="Etymology Source Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="etf"/>
+</field>
+<field sfm="sy" name="Lexical Relation" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Synonyms"/>
+</field>
+</fieldDescriptions>
+
+<!--=====================================================================
+In Field Markers
+===================================================================== -->
+<inFieldMarkers>
+</inFieldMarkers>
+
+<!--=====================================================================
+Custom Field Descriptions
+===================================================================== -->
+<CustomFieldDescriptions>
+</CustomFieldDescriptions>
+</sfmMapping>
