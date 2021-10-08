@@ -609,6 +609,18 @@
 \xn 帜和语
 \dt 12/12月/2020
 
+\lx hafa-tur
+\ph hafa-tur
+\ps v'
+\gn 翻译
+\nt 词源: hafa + tur
+\cf hafa
+\cn 语言
+\cf tur
+\cn 变化
+\nt Ftnk: hfa-tr
+\dt 08/10月/2021
+
 \lx hafa-cile
 \ph hafa-cile
 \ps p'
@@ -2113,6 +2125,17 @@
 \nt Ftnk: b`rt
 \dt 28/7月/2019
 
+\lx blike
+\ph blike
+\ps p'
+\gn 植物
+\nt 词源: SH biljka
+\nt Ftnk: bl'k
+\cf dere
+\cn 树
+\va kope（停用）
+\dt 08/10月/2021
+
 \lx blane
 \ph blane
 \ps p'
@@ -3528,18 +3551,6 @@
 \gn 3
 \nt 词源: Niv oakh
 \dt 09/7月/2019
-
-\lx kope
-\ph kope
-\ps p'
-\gn 植物
-\nt 词源: kup
-\cf kup
-\cn 种，植入
-\nt Ftnk: |kp
-\cf dere
-\cn 树
-\dt 14/3月/2021
 
 \lx kodiz
 \ph kodiz
@@ -4990,7 +5001,9 @@
 \cn 音频
 \cf cutiz
 \cn 演奏
-\dt 10/7月/2019
+\cf sucuta
+\cn 伴奏
+\dt 08/10月/2021
 
 \lx cule
 \ph cule
@@ -6016,8 +6029,8 @@
 \nt 词源: soc
 \cf soc
 \cn 试
-\nt
-\dt 10/7月/2019
+\nt Ftnk: soco
+\dt 08/10月/2021
 
 \lx sosna
 \ph sosna
@@ -6118,6 +6131,18 @@
 \cn 学生
 \nt Ftnk: s`gr`k
 \dt 06/5月/2021
+
+\lx sucuta
+\ph sucuta
+\ps p'
+\gn 伴奏
+\nt 词源: s + cuta
+\cf s
+\cn 伴随，和
+\cf cuta
+\cn 音乐
+\nt Ftnk: su`|cta
+\dt 08/10月/2021
 
 \lx suz
 \ph suz
@@ -9035,19 +9060,19 @@
 \nt Ftnk: nvo
 \dt 10/7月/2019
 
-\lx nu
-\ph nu
-\ps t'
-\gn 0
-\nt 词源: Lat nūllus
-\dt 09/7月/2019
-
 \lx nu-
 \ph nu-
 \ps s'
 \gn 否
 \nt Ftnk: nu`
 \dt 10/7月/2019
+
+\lx nu
+\ph nu
+\ps t'
+\gn 0
+\nt 词源: Lat nūllus
+\dt 09/7月/2019
 
 \lx nude
 \ph nude
@@ -9578,7 +9603,9 @@
 \nt Ftnk: l'ng
 \cf loNga
 \cn 材料
-\dt 23/9月/2021
+\xv rese loNge
+\xn 背景事件
+\dt 03/10月/2021
 
 \lx loNga
 \ph longa
@@ -11298,8 +11325,8 @@
 \dn 帜和语，Kinboise创造的一种人造语言。
 \va ·séniva
 \sy ·seniva:hafa
-\nt Ftnk: ·SE_NI_VA/·sn`v
-\dt 11/12月/2020
+\nt Ftnk: ·snv/·SE_NI_VA
+\dt 08/10月/2021
 
 \lx ·senegál
 \ph Senegál
