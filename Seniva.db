@@ -125,13 +125,6 @@
 \xn 糖类
 \dt 18/4月/2020
 
-\lx oN
-\ph on
-\ps k'
-\gn 谓语动词
-\lc oN
-\dt 10/8月/2019
-
 \lx -on-
 \ph -on-
 \ps s'
@@ -145,6 +138,13 @@
 \xv gorone
 \xn 学校
 \dt 18/4月/2020
+
+\lx oN
+\ph on
+\ps k'
+\gn 谓语动词
+\lc oN
+\dt 10/8月/2019
 
 \lx -or-
 \ph -or-
@@ -584,6 +584,14 @@
 \cn 道歉
 \dt 09/7月/2019
 
+\lx hafila
+\ph hafila
+\ps p'
+\gn 方言
+\nt 词源: haf + -il-
+\nt Ftnk: hf`la
+\dt 28/11月/2021
+
 \lx hafirese
 \ph hafirese
 \ps p'
@@ -659,6 +667,17 @@
 \va ˙konlaNq
 \vn (Eng)
 \dt 12/12月/2020
+
+\lx hafova
+\ph hafova
+\ps p'
+\gn 语系，语族，语支
+\dn 语系，语族，语支。任一等级的语言分类，同英语“language family”。
+\nt 词源: hafa + -ov-
+\cf hafa
+\cn 语言
+\nt Ftnk: hf`va
+\dt 28/11月/2021
 
 \lx haNho
 \ph hanho
@@ -916,6 +935,40 @@
 \nt Ftnk: |pc
 \dt 09/7月/2019
 
+\lx piske
+\ph piske
+\ps p'
+\gn 外生殖器
+\nt 词源: pisko, piska
+\cf pisko
+\cf piska
+\nt Ftnk: p'sk(e)
+\dt 05/12月/2021
+
+\lx piska
+\ph piska
+\ps p'
+\gn 阴户
+\nt 词源: Рус писька
+\nt Ftnk: p'ska
+\cf pisko
+\cn 阴茎
+\cf piske
+\cn 外生殖器
+\dt 05/12月/2021
+
+\lx pisko
+\ph pisko
+\ps p'
+\gn 阴茎
+\nt 词源: Run pisqu
+\nt Ftnk: p'sko
+\cf piska
+\cn 阴户
+\cf piske
+\cn 外生殖器
+\dt 05/12月/2021
+
 \lx pife
 \ph pife
 \ps p'
@@ -1072,11 +1125,11 @@
 \dn 亮。形容被照亮的事物。
 \nt 词源: pos
 \cf pos
-\cn 照亮
+\cn 发光，照亮
 \nt Ftnk: |ps(e)
 \cf pose
 \cn 亮
-\dt 30/11月/2019
+\dt 28/11月/2021
 
 \lx pav
 \ph pav
@@ -1202,7 +1255,7 @@
 \lx pos
 \ph pos
 \ps v'
-\gn 照亮
+\gn 发光，照亮
 \nt 词源: posa
 \cf posa
 \cn 光
@@ -1213,7 +1266,7 @@
 \cn 照亮的
 \cf posike
 \cn 灯
-\dt 26/7月/2019
+\dt 28/11月/2021
 
 \lx posibise
 \ph posibise
@@ -1249,9 +1302,9 @@
 \gn 灯
 \nt 词源: pos + -ik-
 \cf pos
-\cn 照亮
+\cn 发光，照亮
 \nt Ftnk: ps`k
-\dt 10/7月/2019
+\dt 28/11月/2021
 
 \lx pose
 \ph pose
@@ -1263,10 +1316,10 @@
 \cn 光
 \nt Ftnk: ps(e)
 \cf pos
-\cn 照亮
+\cn 发光，照亮
 \cf pase
 \cn 照亮的
-\dt 26/7月/2019
+\dt 28/11月/2021
 
 \lx posa
 \ph posa
@@ -1275,10 +1328,10 @@
 \nt 词源: Niv pxao
 \nt Ftnk: psa
 \cf pos
-\cn 照亮
+\cn 发光，照亮
 \cf pose
 \cn 亮
-\dt 26/7月/2019
+\dt 28/11月/2021
 
 \lx posade
 \ph posade
@@ -1308,6 +1361,30 @@
 \cf naposo
 \cn 夜
 \dt 26/7月/2019
+
+\lx posume
+\ph posume
+\ps fp'
+\gn 光荣
+\nt 词源: pos + -um-
+\cf pos
+\cn 发光，照亮
+\nt Ftnk: ps`m
+\cf posumoda
+\cn 荣耀
+\dt 28/11月/2021
+
+\lx posumoda
+\ph posumoda
+\ps p'
+\gn 荣耀
+\nt 词源: posume + -od-
+\cf posume
+\cn 光荣
+\cf pos
+\cn 发光，照亮
+\nt Ftnk: ps`m`d
+\dt 28/11月/2021
 
 \lx pome
 \ph pome
@@ -1890,6 +1967,42 @@
 \nt Ftnk: bsn
 \dt 19/9月/2021
 
+\lx bazugimise
+\ph bazugimise
+\ps fp'
+\gn 共产主义的
+\nt 词源: ba + zug + mise
+\cf ba
+\cn 一起
+\cf zug
+\cn 制作
+\cf mise
+\cn 思想
+\nt Ftnk: b`zgi_|ms
+\cf bazugimisoda
+\cn 共产主义
+\cf mice-mise
+\cn 资本主义的
+\cf vespimise
+\cn 社会主义的
+\dt 07/5月/2021
+
+\lx bazugimisoda
+\ph bazugimisoda
+\ps p'
+\gn 共产主义
+\nt 词源: bazugimise + -od-
+\cf bazugimise
+\cn 共产主义的
+\cf mise
+\cn 思想
+\nt Ftnk: b`zgi_|ms`d
+\cf mice-misoda
+\cn 资本主义
+\cf vespimisoda
+\cn 社会主义
+\dt 07/5月/2021
+
 \lx bafte
 \ph bafte
 \ps p'
@@ -1948,8 +2061,8 @@
 \ps p'
 \gn 香蕉
 \nt 词源: Eng banana
-\nt Ftnk: BA_NA_NA/b`nn
-\dt 10/7月/2019
+\nt Ftnk: BA_NA_NA/bnn
+\dt 05/12月/2021
 
 \lx baNse
 \ph banse
@@ -2401,18 +2514,18 @@
 \lx tapole
 \ph tapole
 \ps p'
-\gn 壶，锅
+\gn 瓶子
 \nt 词源: Niv tapol
-\nt Ftnk: TA_PO_LE/t`pl
-\dt 10/7月/2019
+\nt Ftnk: tpl
+\dt 01/11月/2021
 
 \lx tabako
 \ph tabako
 \ps p'
 \gn 烟草
 \nt 词源: Esp tabaco
-\nt Ftnk: TA_BA_KO/t`bk
-\dt 26/11月/2019
+\nt Ftnk: TA_BA_KO/tbk
+\dt 05/12月/2021
 
 \lx tajle
 \ph tajle
@@ -2593,8 +2706,8 @@
 \ps p'
 \gn 地狱
 \nt 词源: Niv tofet
-\nt Ftnk: TO_FE_TO/t`ft
-\dt 10/7月/2019
+\nt Ftnk: TO_FE_TO/tft
+\dt 05/12月/2021
 
 \lx tomitocove
 \ph tomitocove
@@ -2971,6 +3084,20 @@
 \nt Ftnk: dli_bl'ne`l
 \dt 09/4月/2021
 
+\lx daliglase
+\ph daliglase
+\ps p'
+\gn 广播
+\nt 词源: dale + glase
+\cf dale
+\cn 远
+\cf glase
+\cn 声音
+\nt Ftnk: dli_gl's
+\xv daliglase alinove·xef
+\xn 先拂人民广播（电台）
+\dt 05/12月/2021
+
 \lx dale
 \ph dale
 \ps fp'
@@ -3097,6 +3224,18 @@
 \cn 气体
 \nt Ftnk: ds(.)
 \dt 26/11月/2019
+
+\lx dusifose
+\ph dusifose
+\ps p'
+\gn 水蒸气
+\nt 词源:  duse + fose
+\cf duse
+\cn 气体
+\cf fose
+\cn 水
+\nt Ftnk: dsi_fs
+\dt 01/11月/2021
 
 \lx duse
 \ph duse
@@ -3234,6 +3373,26 @@
 \nt 词源: Niv kehovie("联系")
 \nt Ftnk: keh
 \dt 10/7月/2019
+
+\lx kegiz
+\ph kegiz
+\ps v'
+\gn 做饭，烹饪
+\nt 词源: kege + -iz-
+\cf kege
+\cn 食物
+\nt Ftnk: keg`z/kg`z
+\xv fosikegiz
+\xn 煮
+\xv jolikegiz
+\xn 炒
+\xv nitfijolikegiz
+\xn 煎
+\xv mogijolikegiz
+\xn 炸
+\xv dusifosikegiz
+\xn 蒸
+\dt 01/11月/2021
 
 \lx kegifone
 \ph kegifone
@@ -3666,42 +3825,6 @@
 \vn (Niv)
 \dt 07/9月/2021
 
-\lx kovumimise
-\ph kovumimise
-\ps fp'
-\gn 共产主义的
-\nt 词源: kovume + mise
-\cf kovume
-\cn 公共
-\cf mise
-\cn 思想
-\nt Ftnk: kv`mi_|ms
-\cf kovumimisoda
-\cn 共产主义
-\cf mice-mise
-\cn 资本主义的
-\cf vespimise
-\cn 社会主义的
-\dt 07/5月/2021
-
-\lx kovumimisoda
-\ph kovumimisoda
-\ps p'
-\gn 共产主义
-\nt 词源: kovmimise + -od-
-\cf kovumimise
-\cn 共产主义的
-\cf kovume
-\cn 公共
-\cf mise
-\cn 思想
-\nt Ftnk: kv`mi_|ms`d
-\cf mice-misoda
-\cn 资本主义
-\cf vespimisoda
-\cn 社会主义
-\dt 07/5月/2021
-
 \lx kovume
 \ph kovume
 \ps fp'
@@ -4053,16 +4176,6 @@
 \dt 10/7月/2019
 
 \lx gara
-\ph gare
-\ps p'
-\gn 学问
-\nt 词源: gor
-\cf gor
-\cn 学习
-\nt Ftnk: |gr(e)
-\dt 09/7月/2019
-
-\lx gara
 \ph gara
 \ps p'
 \gn 学科
@@ -4071,6 +4184,16 @@
 \cn 学习
 \nt Ftnk: |gr(a)
 \dt 27/6月/2019
+
+\lx gara
+\ph gare
+\ps p'
+\gn 学问
+\nt 词源: gor
+\cf gor
+\cn 学习
+\nt Ftnk: |gr(e)
+\dt 09/7月/2019
 
 \lx go
 \ph go
@@ -4123,6 +4246,18 @@
 \cf gos
 \nt Ftnk: gs
 \dt 26/11月/2019
+
+\lx gonifose
+\ph gonifose
+\ps p'
+\gn 冰
+\nt 词源:  gone + fose
+\cf gone
+\cn 固体
+\cf fose
+\cn 水
+\nt Ftnk: gni_fs
+\dt 01/11月/2021
 
 \lx goninira
 \ph goninira
@@ -4188,6 +4323,18 @@
 \cn 教师
 \dt 10/7月/2019
 
+\lx gorigora
+\ph gorigora
+\ps p'
+\gn 课本
+\nt 词源: gor + gora
+\cf gor
+\cn 学习
+\cf gora
+\cn 书
+\nt Ftnk: gri_gra
+\dt 28/11月/2021
+
 \lx gorica
 \ph gorica
 \ps p'
@@ -4214,6 +4361,33 @@
 \nt Ftnk: gri_s`b`nz
 \dt 18/7月/2021
 
+\lx gorisoco
+\ph gorisoco
+\ps p'
+\gn 考试
+\dn 考试。指学业中的考试。
+\nt 词源: gor + soco
+\cf gor
+\cn 学习
+\cf soco
+\cn 测试
+\nt Ftnk: gri_sco
+\dt 28/11月/2021
+
+\lx gorirede
+\ph gorirede
+\ps p'
+\gn 作业
+\nt 词源: gor + rede
+\cf gor
+\cn 学习
+\cf rede
+\cn 工作
+\nt Ftnk: gri_|rd
+\xv egorirede moge mi mip .
+\xn 我有很多作业要做。
+\dt 27/11月/2021
+
 \lx gore
 \ph gore
 \ps p'
@@ -4236,6 +4410,18 @@
 \xn 这是你的红书。
 \dt 27/6月/2019
 
+\lx gora-lubo
+\ph gora-lubo
+\ps p'
+\gn 图书馆
+\nt 词源: gora + lubo
+\cf gora
+\cn 书
+\cf lubo
+\cn 屋子
+\nt Ftnk: gra-lb
+\dt 28/11月/2021
+
 \lx gorone
 \ph gorone
 \ps p'
@@ -4244,13 +4430,13 @@
 \cf gor
 \cn 学习
 \nt Ftnk: gr`n
-\cf korigorone
+\cf loNgigorone
 \cn 小学
 \cf hurigorone
 \cn 中学
 \cf vikigorone
 \cn 大学
-\dt 10/7月/2019
+\dt 01/11月/2021
 
 \lx gorum
 \ph gorum
@@ -4390,9 +4576,9 @@
 \cf glade
 \cn 光滑
 \nt Ftnk: gl'd(.)
-\xv hetu glad.!
+\xv hetu glad .!
 \xn 小心地滑！
-\dt 19/1月/2020
+\dt 05/12月/2021
 
 \lx glade
 \ph glade
@@ -4402,9 +4588,9 @@
 \nt Ftnk: gl'd
 \cf glad
 \cn 滑
-\xv hat edive glade.!
+\xv hat edive glade .!
 \xn 小心地滑！
-\dt 19/1月/2020
+\dt 05/12月/2021
 
 \lx glas
 \ph glas
@@ -5312,6 +5498,14 @@
 \nt Ftnk: jf`k
 \dt 21/12月/2020
 
+\lx jave
+\ph jave
+\ps jp'
+\gn 急
+\nt 词源: 漢 要
+\nt Ftnk: jv
+\dt 20/11月/2021
+
 \lx jaN
 \ph jan
 \ps c'
@@ -6030,7 +6224,9 @@
 \cf soc
 \cn 试
 \nt Ftnk: soco
-\dt 08/10月/2021
+\cf gorisoco
+\cn 考试
+\dt 28/11月/2021
 
 \lx sosna
 \ph sosna
@@ -6670,11 +6866,11 @@
 \ph zase
 \ps p'
 \gn 心
-\nt 词源: 五元文象形
+\nt 词源: 新造，五元文象形
 \nt Ftnk: zse
 \cf zas
 \cn 爱
-\dt 27/6月/2019
+\dt 05/12月/2021
 
 \lx zaf
 \ph zaf
@@ -6972,6 +7168,19 @@
 \cn 包被，包裹
 \nt Ftnk: fic(e)
 \dt 06/8月/2021
+
+\lx fico
+\ph fico
+\ps p'
+\gn 皮，壳
+\dn 皮，壳。指除动物皮肤以外的各种包被层，如果皮等。
+\nt 词源: fic
+\cf fic
+\cn 包被，包裹
+\nt Ftnk: fco
+\xv molim efico akitro kaj .
+\xn 请打开橙子皮。
+\dt 01/11月/2021
 
 \lx fis
 \ph fis
@@ -7786,7 +7995,7 @@
 \cn 社会主义
 \cf mice-mise
 \cn 资本主义的
-\cf kovumimise
+\cf bazugimise
 \cn 共产主义的
 \dt 07/5月/2021
 
@@ -7804,7 +8013,7 @@
 \nt Ftnk: v'spi_|ms`d
 \cf mice-misoda
 \cn 资本主义
-\cf kovumimisoda
+\cf bazugimisoda
 \cn 共产主义
 \dt 07/5月/2021
 
@@ -8131,6 +8340,24 @@
 \xn 我喜欢帜和语。
 \dt 04/1月/2021
 
+\lx mib
+\ph mib
+\ps v'
+\gn 结束
+\nt 词源: mibe
+\cf mibe
+\cn 尾巴
+\nt Ftnk: mb
+\dt 01/11月/2021
+
+\lx mibe
+\ph mibe
+\ps p'
+\gn 尾巴
+\nt 词源: 漢 尾巴
+\nt Ftnk: mbe
+\dt 01/11月/2021
+
 \lx mig
 \ph mig
 \ps v'
@@ -8191,7 +8418,7 @@
 \cn 资本主义
 \cf vespimise
 \cn 社会主义的
-\cf kovumimise
+\cf bazugimise
 \cn 共产主义的
 \dt 07/5月/2021
 
@@ -8209,7 +8436,7 @@
 \nt Ftnk: mce-|ms`d/mc-|ms`d
 \cf vespimisoda
 \cn 社会主义
-\cf kovumimisoda
+\cf bazugimisoda
 \cn 共产主义
 \dt 07/5月/2021
 
@@ -8380,13 +8607,13 @@
 \ph magarikable
 \ps cp'
 \gn 骡
-\nt 词源: magare + kabale
+\nt 词源: magare + kable
 \cf magare
 \cn 驴
 \cf kable
 \cn 马
 \nt Ftnk: mgri_k'bl
-\dt 23/9月/2021
+\dt 28/11月/2021
 
 \lx magare
 \ph magare
@@ -9379,6 +9606,14 @@
 \cn 面积
 \dt 26/12月/2020
 
+\lx lakte
+\ph lakte
+\ps cp'
+\gn 骆驼
+\nt 词源: 漢 駱駝
+\nt Ftnk: l'kt
+\dt 27/11月/2021
+
 \lx lase
 \ph lase
 \ps cp'
@@ -9605,7 +9840,8 @@
 \cn 材料
 \xv rese loNge
 \xn 背景事件
-\dt 03/10月/2021
+\va kore（停用）
+\dt 28/11月/2021
 
 \lx loNga
 \ph longa
@@ -9615,7 +9851,8 @@
 \cf loNge
 \cn 根，基
 \nt Ftnk: l'nga
-\dt 23/9月/2021
+\va kora（停用）
+\dt 28/11月/2021
 
 \lx lubikeje
 \ph lubikeje
@@ -9765,9 +10002,9 @@
 \cf rad
 \cn 工作
 \nt Ftnk: |rd
-\xv erede moge mi mip.
+\xv erede moge mi mip .
 \xn 我有很多工作要做。
-\dt 10/3月/2020
+\dt 27/11月/2021
 
 \lx rese
 \ph rese
@@ -10607,6 +10844,20 @@
 \gn 巴哈马
 \dt 25/7月/2019
 
+\lx ·bavgizugoda
+\ph Bavgizugoda
+\ps jp'
+\gn 我的世界，Minecraft
+\dn 我的世界，Minecraft。Mojang开发的沙盒游戏，发布于2011年。
+\nt 词源: bavga + zug + -od-
+\cf bavga
+\cn 矿
+\cf zug
+\cn 制作
+\nt Ftnk: ·b'vgi_zg`d
+\va ·majnkraft
+\dt 28/11月/2021
+
 \lx ·balti
 \ph Balti
 \ps jp'
@@ -10717,11 +10968,11 @@
 \cn 印度-伊朗语族
 \cf ·balti·sloven
 \cn 波罗的-斯拉夫语族
-\cf ·xkjipwrí
+\cf ·xkipwrí
 \cn 阿尔巴尼亚
 \cf ·hajastán
 \cn 亚美尼亚
-\cf ·hellás
+\cf ·helás
 \cn 希腊
 \cf ·romanice
 \cn 罗曼
@@ -10733,7 +10984,7 @@
 \cn 安那托利亚
 \cf ·tarim
 \cn 塔里木；吐火罗语族
-\dt 25/7月/2019
+\dt 08/11月/2021
 
 \lx ·bharat·qarjan
 \ph Bharat-Arjan
@@ -11156,6 +11407,12 @@
 \gn 危地马拉
 \dt 26/7月/2019
 
+\lx ·gvanhva
+\ph Gvanhva
+\ps jp'
+\gn 官话
+\dt 28/11月/2021
+
 \lx ·grinejda
 \ph Grinejda
 \ps jp'
@@ -11185,6 +11442,12 @@
 \ps jp'
 \gn 乍得
 \dt 25/7月/2019
+
+\lx ·caNqán
+\ph Canqán
+\ps p'
+\gn 长安
+\dt 28/11月/2021
 
 \lx ·coNqdú
 \ph Conqdú
@@ -11957,6 +12220,14 @@
 \gn 高考
 \nt 词源: 漢 高考
 \dt 07/9月/2021
+
+\lx ˙ganmáv
+\ph ˙ganmáv
+\ps p'
+\gn 感冒
+\nt 词源: 漢 感冒
+\nt Ftnk: ˙GAN_MAV
+\dt 01/11月/2021
 
 \lx ˙maJjáNq
 \ph ˙madcjánq
