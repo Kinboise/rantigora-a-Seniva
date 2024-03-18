@@ -5,7 +5,7 @@
 <!-- Database: Seniva.db -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2022-10-07T23:03:39">
+<lexiqueProConfig version="3.6" dateModified="2023-04-01T15:41:45">
 
  <encoding type="UTF-8"/>
 
@@ -1313,11 +1313,14 @@ N
  <categories visible="false" style="user">
  </categories>
 
- <aboutDir>About</aboutDir>
+ <aboutDir></aboutDir>
+ <settingsDir></settingsDir>
+ <databaseTypeFilename></databaseTypeFilename>
+ <cctFilename></cctFilename>
 
  <homePage>
   <topImage display="false"></topImage>
-  <bottomImage display="true">D:\ProgramData\Lexique Pro Data\Seniva\Display\tenxur a Seniva 1.png</bottomImage>
+  <bottomImage display="true">tenxur a Seniva 1.png</bottomImage>
  </homePage>
 
 </lexiqueProConfig>

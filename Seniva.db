@@ -1,12 +1,27 @@
 ﻿\_sh v3.0  400  MDF
 \_DateStampHasFourDigitYear
 
+\lx -i-
+\ph -i-
+\ps s'
+\gn 连接复合词
+\nt Hnv3: 之
+\dt 07/12月/2023
+
 \lx i
 \ph i
 \ps k'
 \gn 主格
 \lc i
-\dt 10/8月/2019
+\nt Hnv3: 以
+\dt 07/12月/2023
+
+\lx -i
+\ph -i
+\ps s'
+\gn 动名词
+\nt Hnv3: 之
+\dt 07/12月/2023
 
 \lx -ik-
 \ph -ik-
@@ -52,12 +67,21 @@
 \nt Han: 類
 \dt 29/12月/2022
 
+\lx -e
+\ph -e
+\ps s'
+\gn 名词词尾
+\dn 默认的名词词尾。
+\nt Hnv3: 兮
+\dt 07/12月/2023
+
 \lx e
 \ph e
 \ps k'
 \gn 宾格
 \lc e
-\dt 10/8月/2019
+\nt Hnv3: 將
+\dt 07/12月/2023
 
 \lx -el-
 \ph -el-
@@ -68,12 +92,21 @@
 \nt Ftnk: e`l
 \dt 05/7月/2021
 
+\lx -a
+\ph -a
+\ps s'
+\gn 名词词尾
+\dn 名词词尾。对有性名词，表示雌性。
+\nt Hnv3: 也
+\dt 07/12月/2023
+
 \lx a
 \ph a
 \ps k'
 \gn 属格
 \lc a
-\dt 10/8月/2019
+\nt Han: 屬
+\dt 07/12月/2023
 
 \lx -at-
 \ph -at-
@@ -104,12 +137,21 @@
 \xv ·verodano
 \dt 23/6月/2022
 
+\lx -o
+\ph -o
+\ps s'
+\gn 名词词尾
+\dn 名词词尾。对有性名词，表示雄性。
+\nt Hnv3: 乎
+\dt 07/12月/2023
+
 \lx o
 \ph o
 \ps h'
 \gn 无义
 \lc o
-\dt 10/8月/2019
+\nt Hnv3: 歟
+\dt 07/12月/2023
 
 \lx -op-
 \ph -op-
@@ -135,18 +177,20 @@
 \nt 词源: Sl -ov-
 \nt Ftnk: `v
 \nt Han: 屬
+\nt Hnv3: 族
 \xv linove
 \xn 人民
 \xv sladove
 \xn 糖类
-\dt 29/12月/2022
+\dt 07/12月/2023
 
 \lx oN
 \ph on
 \ps k'
 \gn 谓语动词
 \lc oN
-\dt 10/8月/2019
+\nt Hnv3: 歟等
+\dt 07/12月/2023
 
 \lx -on-
 \ph -on-
@@ -177,7 +221,15 @@
 \ps k'
 \gn 与格
 \lc u
-\dt 10/8月/2019
+\nt Hnv3: 於
+\dt 07/12月/2023
+
+\lx -u
+\ph -u
+\ps s'
+\gn 副词词尾
+\nt Hnv3: 然
+\dt 07/12月/2023
 
 \lx -um-
 \ph -um-
@@ -1741,6 +1793,17 @@
 \cn 分支
 \dt 09/7月/2019
 
+\lx plode
+\ph plode
+\ps p'
+\gn 院子
+\nt 词源: ploda
+\cf ploda
+\cn 园
+\nt Ftnk: pl'de
+\nt Han: 園e
+\dt 20/2月/2023
+
 \lx ploda
 \ph ploda
 \ps p'
@@ -1976,6 +2039,18 @@
 \nt Han: 病
 \dt 12/1月/2023
 
+\lx be
+\ph be
+\sn 1
+\ps t'
+\gn 2
+\nt 词源: Niv ebh
+\nt Han: 二
+\sn 2
+\ps c'
+\gn 再，又
+\dt 12/1月/2023
+
 \lx be-
 \ph be-
 \sn 1
@@ -1990,18 +2065,6 @@
 \ps s'
 \gn 再
 \nt Han: 再
-\dt 12/1月/2023
-
-\lx be
-\ph be
-\sn 1
-\ps t'
-\gn 2
-\nt 词源: Niv ebh
-\nt Han: 二
-\sn 2
-\ps c'
-\gn 再，又
 \dt 12/1月/2023
 
 \lx behu
@@ -2032,9 +2095,9 @@
 \cn 再，双
 \cf daNda
 \cn 逗号
-\nt Ftnk: b`dn'd
+\nt Ftnk: b`d'nd
 \nt Han: 雙讀
-\dt 12/1月/2023
+\dt 14/10月/2023
 
 \lx bes
 \ph bes
@@ -3743,12 +3806,12 @@
 \ph k
 \ps k'
 \gn 对于
-\nt Han: 於
+\nt Han: 至
 
 \xv fofibura cas curi ke nito ju gice k lu .
 \xn 北风必须承认太阳比他更强。
 
-\dt 05/7月/2021
+\dt 07/12月/2023
 
 \lx ki
 \ph ki
@@ -3954,7 +4017,20 @@
 \nt Han: 信所太a
 \cf kef
 \cn 认为，相信
-\dt 24/7月/2019
+\cf kefomona
+\cn 宗教场所
+\dt 20/2月/2023
+
+\lx kefomona
+\ph kefomona
+\ps p'
+\gn 宗教场所
+\nt 词源: kefoma + -on-
+\cf kefoma
+\cn 宗教
+\nt Ftnk: kf`|m`n
+\nt Han: 信所太處
+\dt 20/2月/2023
 
 \lx kefum
 \ph kefum
@@ -4374,15 +4450,24 @@
 \nt Han: 集太
 \dt 10/7月/2019
 
+\lx koNbe
+\ph konbe
+\ps fp'
+\gn 凸
+\nt 词源: Lat convexus
+\nt Ftnk: k'nb
+\dt 02/4月/2023
+
 \lx koNso
 \ph konso
 \ps p'
 \gn 辅音
 \nt Ftnk: k'ns
+\nt Han: 紐
 \va koNsonaNt
 \cf vokale
 \cn 元音
-\dt 10/7月/2019
+\dt 17/7月/2023
 
 \lx koronanove
 \ph koronanove
@@ -4405,8 +4490,8 @@
 \cf k
 \cn 对于
 \nt Ftnk: k`
-\nt Han: 於
-\dt 10/7月/2019
+\nt Han: 至
+\dt 07/12月/2023
 
 \lx kup
 \ph kup
@@ -4459,7 +4544,7 @@
 \cf bit
 \cn 是，存在
 \nt Ftnk: k`bt
-\nt Han: 於爲
+\nt Han: 至爲
 \dt 09/7月/2019
 
 \lx kuc
@@ -4480,7 +4565,7 @@
 \nt 词源: k + vog
 \cf vog
 \nt Ftnk: k`vg
-\nt Han: 於動
+\nt Han: 至動
 \dt 28/7月/2019
 
 \lx kuNke
@@ -4603,9 +4688,10 @@
 \ps vn'
 \gn 定语从句引导词
 \nt Han: 之
+\nt Hnv3: 是
 \xv mi f ugico ge pojuz pav .
 \xn 我为正在成长的力量歌唱。
-\dt 10/7月/2019
+\dt 07/12月/2023
 
 \lx git
 \ph git
@@ -4789,17 +4875,6 @@
 \dt 10/7月/2019
 
 \lx gara
-\ph gare
-\ps p'
-\gn 学问
-\nt 词源: gor
-\cf gor
-\cn 学习
-\nt Ftnk: |gr(e)
-\nt Han: 所學(e)
-\dt 09/7月/2019
-
-\lx gara
 \ph gara
 \ps p'
 \gn 学科
@@ -4809,6 +4884,17 @@
 \nt Ftnk: |gr(a)
 \nt Han: 所學(a)
 \dt 27/6月/2019
+
+\lx gara
+\ph gare
+\ps p'
+\gn 学问
+\nt 词源: gor
+\cf gor
+\cn 学习
+\nt Ftnk: |gr(e)
+\nt Han: 所學(e)
+\dt 09/7月/2019
 
 \lx go
 \ph go
@@ -5832,11 +5918,11 @@
 \ph co
 \ps c'
 \gn 疑问
-\nt Han: 乎
+\nt Han: 豈
 \xv co hegorike du?.
 \xn 老师在这里吗？
 \cf ci
-\dt 14/3月/2020
+\dt 07/12月/2023
 
 \lx coke
 \ph coke
@@ -6687,7 +6773,8 @@
 \gn 是
 \nt 词源: Niv šinn
 \nt Ftnk: sn/SIN
-\dt 19/9月/2021
+\nt Han: 諾
+\dt 07/12月/2023
 
 \lx siNge
 \ph singe
@@ -6943,6 +7030,21 @@
 \nt Han: 是u
 \dt 10/7月/2019
 
+\lx sasiblane
+\ph sasiblane
+\ps p'
+\gn （旧）首都
+\nt 词源: saso + blane
+\cf saso
+\cn 国家
+\cf blane
+\cn 脑
+\nt Ftnk: ssi_bl'n
+\nt Han: 國i腦
+\cf lopone
+\cn 管理处，治所
+\dt 16/1月/2024
+
 \lx sasijenizo
 \ph sasijenizo
 \ps p'
@@ -6955,19 +7057,6 @@
 \nt Ftnk: ssi_jn`z
 \nt Han: 國i一化
 \dt 10/7月/2019
-
-\lx sasilopone
-\ph sasiblane
-\ps p'
-\gn （旧）首都
-\nt 词源: saso + blane
-\cf saso
-\cn 国家
-\cf blane
-\cn 脑
-\nt Ftnk: ssi_bl'n
-\nt Han: 國i腦
-\dt 06/9月/2021
 
 \lx sasate
 \ph sasate
@@ -7034,8 +7123,8 @@
 \gn 仅
 \nt 词源: SH samo
 \nt Ftnk: sam
-\nt Han: 但
-\dt 09/7月/2019
+\nt Han: 僅
+\dt 14/10月/2023
 
 \lx sale
 \ph sale
@@ -8063,7 +8152,7 @@
 \ph f
 \ps k'
 \gn 至，为了
-\nt Han: 至
+\nt Han: 向
 
 \xv f cu ti put .? (=fu cu ti put .?)
 \xn 你在向哪里行？
@@ -8081,7 +8170,7 @@
 \ph fu
 \ps k'
 \gn 至，为了
-\nt Han: 至u
+\nt Han: 向u
 
 \sn 1
 \dn 同“f”，可用于辅音开头的与格代词之前。
@@ -8098,7 +8187,7 @@
 \xv f ujakisaso miN vise daj .
 \xn =fu jakisaso min vise daj.
 
-\dt 05/7月/2021
+\dt 07/12月/2023
 
 \lx fi
 \ph fi
@@ -8503,7 +8592,7 @@
 \nt 词源: f
 \cf f
 \nt Ftnk: FO
-\nt Han: 至o
+\nt Han: 向o
 \dt 13/6月/2022
 
 \lx fob
@@ -8647,7 +8736,7 @@
 \cf mic
 \cn 交易
 \nt Ftnk: f`mc
-\nt Han: 至市
+\nt Han: 向市
 \dt 27/6月/2019
 
 \lx fume
@@ -9275,6 +9364,15 @@
 \nt Ftnk: vr
 \nt Han: 真
 \dt 02/7月/2019
+
+\lx verbe
+\ph verbe
+\ps p'
+\gn 柳
+\nt 词源: SH vrba
+\nt Ftnk: v'rb
+\nt Han: 柳
+\dt 07/2月/2023
 
 \lx vab
 \ph vab
@@ -9925,8 +10023,8 @@
 \sn 2
 \ps t'
 \gn 某，几，一些
-\nt 词源: 漢 某
-\dt 13/6月/2022
+\nt 词源: 漢 幾
+\dt 18/10月/2023
 
 \lx mogihaf
 \ph mogihaf
@@ -10137,6 +10235,30 @@
 \nt Han: 胸
 \dt 03/8月/2019
 
+\lx muNhibite
+\ph munhibite
+\ps p'
+\gn 文物
+\nt 词源: munha + bite
+\cf muNha
+\cn 文化
+\cf bite
+\cn 东西
+\nt Ftnk: m'nhi_bt
+\dt 25/2月/2024
+
+\lx muNhibitone
+\ph munhibitone
+\ps p'
+\gn 博物馆
+\nt 词源: munhibite + -on-
+\cf muNhibite
+\cn 文物
+\cf -on-
+\cn 地点
+\nt Ftnk: m'nhi_bt`n
+\dt 25/2月/2024
+
 \lx muNha
 \ph munha
 \ps p'
@@ -10154,6 +10276,20 @@
 \nt Ftnk: m'nz
 \nt Han: 蚊
 \dt 22/6月/2022
+
+\lx -N
+\ph -n
+\ps s'
+\sn 1
+\gn 复数
+\dn 复数。用于格介词或代词。
+\nt Ftnk: _n
+\sn 2
+\gn 泛指
+\dn 泛指。用于名词。
+\nt Ftnk: _N
+\nt Han: 等
+\dt 07/12月/2023
 
 \lx ni
 \ph ni
@@ -10412,6 +10548,16 @@
 \cf kaj
 \cn 开
 \dt 10/7月/2019
+
+\lx nakoNbe
+\ph nakonbe
+\ps fp'
+\gn 凹
+\nt 词源: na- + konbe
+\cf konbe
+\cn 凸
+\nt Ftnk: na`k'nb
+\dt 02/4月/2023
 
 \lx nagahe
 \ph nagahe
@@ -10685,14 +10831,6 @@
 \nt Han: 新o
 \dt 10/7月/2019
 
-\lx nu-
-\ph nu-
-\ps s'
-\gn 否
-\nt Ftnk: nu`
-\nt Han: 否
-\dt 10/7月/2019
-
 \lx nu
 \ph nu
 \ps t'
@@ -10700,6 +10838,14 @@
 \nt 词源: Lat nūllus
 \nt Han: 〇
 \dt 09/7月/2019
+
+\lx nu-
+\ph nu-
+\ps s'
+\gn 否
+\nt Ftnk: nu`
+\nt Han: 否
+\dt 10/7月/2019
 
 \lx nude
 \ph nude
@@ -11314,14 +11460,24 @@
 \vn 已停用
 \dt 06/12月/2020
 
+\lx loz
+\ph loz
+\ps v'
+\gn 总结
+\nt 词源: loze
+\cf loze
+\cn 整个
+\nt Ftnk: lz
+\dt 12/1月/2024
+
 \lx loze
 \ph loze
 \ps fp'
 \gn 完整，整个
-\nt 词源: 新造 
+\nt 词源: 新造
 \nt Ftnk: lz
-\nt Han: 渾
-\dt 28/7月/2019
+\nt Han: 完
+\dt 26/5月/2023
 
 \lx love
 \ph love
@@ -11680,13 +11836,13 @@
 \lx rava
 \ph rava
 \ps p'
-\gn 轮子
+\gn 轮
 \nt 词源: rave
 \cf rave
 \cn 圆
 \nt Ftnk: rva
 \nt Han: 圓a
-\dt 10/7月/2019
+\dt 07/12月/2023
 
 \lx ravaje
 \ph ravaje
