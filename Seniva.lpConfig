@@ -5,7 +5,7 @@
 <!-- Database: Seniva.db -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2023-04-01T15:41:45">
+<lexiqueProConfig version="3.6" dateModified="2024-04-13T21:18:36">
 
  <encoding type="UTF-8"/>
 
@@ -159,6 +159,70 @@ N
    </sortOrder>
 
    <ignoreChars></ignoreChars>
+   <ignoreSpaces ignore="false"/>
+
+   <inputButtons display="true" width="23" height="17">
+    <inputButtonsAlphabet></inputButtonsAlphabet>
+   </inputButtons>
+
+   <textDirection dir="LTR"/>
+
+   <defaultFontName></defaultFontName>
+  </writingSystem>
+
+  <writingSystem id="en" type="gloss" enabled="true">
+   <displayNames>
+    <form lang="en">English</form>
+    <form lang="fr">anglais</form>
+    <form lang="es">Inglés</form>
+    <form lang="pt">Inglês</form>
+    <form lang="bg">английски</form>
+    <form lang="rw">Icyongereza</form>
+    <form lang="id">Bahasa Inggris</form>
+    <form lang="zh-CHT">英文</form>
+    <form lang="zh-CHS">英文</form>
+    <form lang="km">អង់គ្លេស</form>
+   </displayNames>
+
+   <markerChar>e</markerChar>
+
+   <trait name="IsDisplayedWithLabel" value="false"/>
+   <trait name="IsIndexed" value="true"/>
+
+   <lowerCase>a b c d e f g h i j k l m n o p q r s t u v w x y z</lowerCase>
+   <upperCase>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</upperCase>
+   <caseAssociations>
+    <caseLine>A a</caseLine>
+    <caseLine>B b</caseLine>
+    <caseLine>C c</caseLine>
+    <caseLine>D d</caseLine>
+    <caseLine>E e</caseLine>
+    <caseLine>F f</caseLine>
+    <caseLine>G g</caseLine>
+    <caseLine>H h</caseLine>
+    <caseLine>I i</caseLine>
+    <caseLine>J j</caseLine>
+    <caseLine>K k</caseLine>
+    <caseLine>L l</caseLine>
+    <caseLine>M m</caseLine>
+    <caseLine>N n</caseLine>
+    <caseLine>O o</caseLine>
+    <caseLine>P p</caseLine>
+    <caseLine>Q q</caseLine>
+    <caseLine>R r</caseLine>
+    <caseLine>S s</caseLine>
+    <caseLine>T t</caseLine>
+    <caseLine>U u</caseLine>
+    <caseLine>V v</caseLine>
+    <caseLine>W w</caseLine>
+    <caseLine>X x</caseLine>
+    <caseLine>Y y</caseLine>
+    <caseLine>Z z</caseLine>
+   </caseAssociations>
+
+   <sortOrder type="built-in"/>
+
+   <ignoreChars>- =</ignoreChars>
    <ignoreSpaces ignore="false"/>
 
    <inputButtons display="true" width="23" height="17">
@@ -1187,6 +1251,103 @@ N
    </view>
   </format>
 
+  <format type="list" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="list-title" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-box" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-buttons" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="gloss" lang="en">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>11</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="encyc" lang="en">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="title" lang="en">
+   <view type="interface">
+    <font>
+     <name>Times New Roman</name>
+     <size>16</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
  </formatting>
 
  <fieldFormatting>
@@ -1227,37 +1388,50 @@ N
   <fieldMarker type="CV Pattern" enabled="true">cv</fieldMarker>
   <fieldMarker type="Sub Entry" enabled="true">se</fieldMarker>
   <fieldMarker type="Part Of Speech" lang="Chinese" enabled="true">ps</fieldMarker>
+  <fieldMarker type="Part Of Speech" lang="English" enabled="true">pse</fieldMarker>
   <fieldMarker type="Sense Number" enabled="true">sn</fieldMarker>
   <fieldMarker type="Gloss" lang="Chinese" enabled="true">gn</fieldMarker>
+  <fieldMarker type="Gloss" lang="English" enabled="true">ge</fieldMarker>
   <fieldMarker type="Definition" lang="Chinese" enabled="true">dn</fieldMarker>
+  <fieldMarker type="Definition" lang="English" enabled="true">de</fieldMarker>
   <fieldMarker type="Reversal" lang="Chinese" enabled="true">rn</fieldMarker>
+  <fieldMarker type="Reversal" lang="English" enabled="true">re</fieldMarker>
   <fieldMarker type="Example" enabled="true">xv</fieldMarker>
   <fieldMarker type="Example Reference" enabled="true">rf</fieldMarker>
   <fieldMarker type="Example Gloss" lang="Chinese" enabled="true">xn</fieldMarker>
+  <fieldMarker type="Example Gloss" lang="English" enabled="true">xe</fieldMarker>
   <fieldMarker type="Paradigm Label" enabled="true">pdl</fieldMarker>
   <fieldMarker type="Paradigm Form" enabled="true">pdv</fieldMarker>
   <fieldMarker type="Paradigm Gloss" lang="Chinese" enabled="true">pdn</fieldMarker>
+  <fieldMarker type="Paradigm Gloss" lang="English" enabled="true">pde</fieldMarker>
   <fieldMarker type="Plural Form" enabled="true">pl</fieldMarker>
   <fieldMarker type="Singular Form" enabled="true">sg</fieldMarker>
   <fieldMarker type="Literal Meaning" lang="Chinese" enabled="true">lt</fieldMarker>
+  <fieldMarker type="Literal Meaning" lang="English" enabled="true">lte</fieldMarker>
   <fieldMarker type="Scientific Name" enabled="true">sc</fieldMarker>
   <fieldMarker type="Lexical Function" enabled="true">lf</fieldMarker>
   <fieldMarker type="Lexical Function Value" enabled="true">lv</fieldMarker>
   <fieldMarker type="Lexical Function Gloss" lang="Chinese" enabled="true">ln</fieldMarker>
+  <fieldMarker type="Lexical Function Gloss" lang="English" enabled="true">le</fieldMarker>
   <fieldMarker type="Usage" lang="Seniva" enabled="true">uv</fieldMarker>
   <fieldMarker type="Usage" lang="Chinese" enabled="true">un</fieldMarker>
+  <fieldMarker type="Usage" lang="English" enabled="true">ue</fieldMarker>
   <fieldMarker type="Encyclopedic Information" lang="Seniva" enabled="true">ev</fieldMarker>
   <fieldMarker type="Encyclopedic Information" lang="Chinese" enabled="true">en</fieldMarker>
+  <fieldMarker type="Encyclopedic Information" lang="English" enabled="true">ee</fieldMarker>
   <fieldMarker type="Only/Restrictions" lang="Seniva" enabled="true">ov</fieldMarker>
   <fieldMarker type="Only/Restrictions" lang="Chinese" enabled="true">on</fieldMarker>
+  <fieldMarker type="Only/Restrictions" lang="English" enabled="true">oe</fieldMarker>
   <fieldMarker type="Synonym" enabled="true">sy</fieldMarker>
   <fieldMarker type="Antonym" enabled="true">an</fieldMarker>
   <fieldMarker type="Morphology" enabled="true">mr</fieldMarker>
   <fieldMarker type="Cross Reference" enabled="true">cf</fieldMarker>
   <fieldMarker type="Cross Reference Gloss" lang="Chinese" enabled="true">cn</fieldMarker>
+  <fieldMarker type="Cross Reference Gloss" lang="English" enabled="true">ce</fieldMarker>
   <fieldMarker type="Main Entry Cross Reference" enabled="true">mn</fieldMarker>
   <fieldMarker type="Variant Form" enabled="true">va</fieldMarker>
   <fieldMarker type="Variant Comment" lang="Chinese" enabled="true">vn</fieldMarker>
+  <fieldMarker type="Variant Comment" lang="English" enabled="true">ve</fieldMarker>
   <fieldMarker type="Borrowed Word" enabled="true">bw</fieldMarker>
   <fieldMarker type="Etymology" enabled="true">et</fieldMarker>
   <fieldMarker type="Etymology Gloss" lang="Seniva" enabled="true">eg</fieldMarker>
@@ -1271,6 +1445,7 @@ N
   <fieldMarker type="Attached File" enabled="true">ff</fieldMarker>
   <fieldMarker type="Attached File Caption" lang="Seniva" enabled="true">fv</fieldMarker>
   <fieldMarker type="Attached File Caption" lang="Chinese" enabled="true">fn</fieldMarker>
+  <fieldMarker type="Attached File Caption" lang="English" enabled="true">fe</fieldMarker>
   <fieldMarker type="Attached File Picture" enabled="true">fp</fieldMarker>
   <fieldMarker type="Notes (anthropology)" enabled="true">na</fieldMarker>
   <fieldMarker type="Notes (discourse)" enabled="true">nd</fieldMarker>
@@ -1280,22 +1455,22 @@ N
   <fieldMarker type="Notes (sociolinguistics)" enabled="true">ns</fieldMarker>
   <fieldMarker type="Notes (general)" enabled="true">nt</fieldMarker>
   <fieldMarker type="Date" enabled="true">dt</fieldMarker>
-  <fieldMarker type="Third dual" enabled="true">3d</fieldMarker>
+  <fieldMarker type="First plural inclusive" enabled="true">1i</fieldMarker>
   <fieldMarker type="Third plural" enabled="true">3p</fieldMarker>
+  <fieldMarker type="Gloss" lang="Seniva" enabled="true">gv</fieldMarker>
+  <fieldMarker type="Definition" lang="Seniva" enabled="true">dv</fieldMarker>
+  <fieldMarker type="Non-animate singular" enabled="true">4s</fieldMarker>
+  <fieldMarker type="Second dual" enabled="true">2d</fieldMarker>
+  <fieldMarker type="First singular" enabled="true">1s</fieldMarker>
+  <fieldMarker type="First dual" enabled="true">1d</fieldMarker>
+  <fieldMarker type="Third dual" enabled="true">3d</fieldMarker>
+  <fieldMarker type="First plural" enabled="true">1p</fieldMarker>
+  <fieldMarker type="Second plural" enabled="true">2p</fieldMarker>
   <fieldMarker type="Third singular" enabled="true">3s</fieldMarker>
+  <fieldMarker type="First plural exclusive" enabled="true">1e</fieldMarker>
+  <fieldMarker type="Second singular" enabled="true">2s</fieldMarker>
   <fieldMarker type="Non-animate dual" enabled="true">4d</fieldMarker>
   <fieldMarker type="Non-animate plural" enabled="true">4p</fieldMarker>
-  <fieldMarker type="Non-animate singular" enabled="true">4s</fieldMarker>
-  <fieldMarker type="First dual" enabled="true">1d</fieldMarker>
-  <fieldMarker type="First plural exclusive" enabled="true">1e</fieldMarker>
-  <fieldMarker type="First plural inclusive" enabled="true">1i</fieldMarker>
-  <fieldMarker type="First plural" enabled="true">1p</fieldMarker>
-  <fieldMarker type="First singular" enabled="true">1s</fieldMarker>
-  <fieldMarker type="Second dual" enabled="true">2d</fieldMarker>
-  <fieldMarker type="Second plural" enabled="true">2p</fieldMarker>
-  <fieldMarker type="Second singular" enabled="true">2s</fieldMarker>
-  <fieldMarker type="Definition" lang="Seniva" enabled="true">dv</fieldMarker>
-  <fieldMarker type="Gloss" lang="Seniva" enabled="true">gv</fieldMarker>
  </fieldMarkers>
 
  <!-- Template to use when adding a new record -->
@@ -1304,8 +1479,10 @@ N
   <templateLine>\ph </templateLine>
   <templateLine>\ps </templateLine>
   <templateLine>\gn </templateLine>
+  <templateLine>\ge </templateLine>
   <templateLine>\nt 词源: </templateLine>
   <templateLine>\nt Ftnk: </templateLine>
+  <templateLine>\nt Han:</templateLine>
   <templateLine>\dt </templateLine>
  </template>
 
@@ -1314,13 +1491,10 @@ N
  </categories>
 
  <aboutDir></aboutDir>
- <settingsDir></settingsDir>
- <databaseTypeFilename></databaseTypeFilename>
- <cctFilename></cctFilename>
 
  <homePage>
   <topImage display="false"></topImage>
-  <bottomImage display="true">tenxur a Seniva 1.png</bottomImage>
+  <bottomImage display="true">D:\hafa-zug\Lexique Pro Data\Seniva\Display\tenxur a Seniva 1.png</bottomImage>
  </homePage>
 
 </lexiqueProConfig>
