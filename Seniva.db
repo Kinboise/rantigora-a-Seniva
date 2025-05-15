@@ -1,14 +1,12 @@
 ﻿\_sh v3.0  400  MDF
 \_DateStampHasFourDigitYear
 
-\lx i
-\ph i
-\ps k'
-\gn 主格
-\ge (Nominative preposition)
-\lc i
-\nt Ftnk: i
-\nt Hnv3: 以
+\lx -i
+\ph -i
+\ps s'
+\gn 动名词
+\ge (Gerund suffix)
+\nt Hnv3: 之
 \dt 14/4月/2024
 
 \lx -i-
@@ -19,12 +17,14 @@
 \nt Hnv3: 之
 \dt 14/4月/2024
 
-\lx -i
-\ph -i
-\ps s'
-\gn 动名词
-\ge (Gerund suffix)
-\nt Hnv3: 之
+\lx i
+\ph i
+\ps k'
+\gn 主格
+\ge (Nominative preposition)
+\lc i
+\nt Ftnk: i
+\nt Hnv3: 以
 \dt 14/4月/2024
 
 \lx -ik-
@@ -156,15 +156,6 @@
 \xv ·verodano
 \dt 14/4月/2024
 
-\lx -o
-\ph -o
-\ps s'
-\gn 名词词尾
-\ge (Noun suffix; male suffix for gendered nouns)
-\dn 名词词尾。对有性名词，表示雄性。
-\nt Hnv3: 乎
-\dt 14/4月/2024
-
 \lx o
 \ph o
 \ps h'
@@ -173,6 +164,15 @@
 \lc o
 \nt Ftnk: o
 \nt Hnv3: 歟
+\dt 14/4月/2024
+
+\lx -o
+\ph -o
+\ps s'
+\gn 名词词尾
+\ge (Noun suffix; male suffix for gendered nouns)
+\dn 名词词尾。对有性名词，表示雄性。
+\nt Hnv3: 乎
 \dt 14/4月/2024
 
 \lx -op-
@@ -208,15 +208,6 @@
 \xn 糖类
 \dt 07/12月/2023
 
-\lx oN
-\ph on
-\ps k'
-\gn 谓语动词
-\ge (predicate verb marker)
-\lc oN
-\nt Hnv3: 歟等
-\dt 07/12月/2023
-
 \lx -on-
 \ph -on-
 \ps s'
@@ -232,6 +223,15 @@
 \xv gorone
 \xn 学校
 \dt 29/12月/2022
+
+\lx oN
+\ph on
+\ps k'
+\gn 谓语动词
+\ge (predicate verb marker)
+\lc oN
+\nt Hnv3: 歟等
+\dt 07/12月/2023
 
 \lx -or-
 \ph -or-
@@ -348,6 +348,18 @@
 \cn 乒乓球
 \dt 10/7月/2019
 
+\lx he-
+\ph he-
+\ps s'
+\gn 使动
+\ge (causative prefix)
+\nt 词源: he
+\nt Han: 使
+\cf he
+\cn 使动
+\nt Ftnk: h`/he`
+\dt 10/7月/2019
+
 \lx he
 \ph he
 \sn 1
@@ -359,18 +371,6 @@
 \gn 命令式
 \ge (imperative particle)
 \nt Han: 使e
-\dt 10/7月/2019
-
-\lx he-
-\ph he-
-\ps s'
-\gn 使动
-\ge (causative prefix)
-\nt 词源: he
-\nt Han: 使
-\cf he
-\cn 使动
-\nt Ftnk: h`/he`
 \dt 10/7月/2019
 
 \lx hehorore
@@ -1140,19 +1140,19 @@
 \cn 足，脚
 \dt 09/7月/2019
 
-\lx hodihacone
-\ph hodihacone
+\lx hoditave
+\ph hoditave
 \ps p'
 \gn 踝
 \ge ankle
-\nt 词源: hode + hacone
+\nt 词源: hode + tave
 \cf hode
 \cn 脚
-\cf hacone
-\cn 节点
-\nt Ftnk: hdi_hc`n
-\nt Han: 足i連處
-\dt 14/5月/2025
+\cf tave
+\cn 弯曲的
+\nt Ftnk: hdi_tv
+\nt Han: 足i曲
+\dt 15/5月/2025
 
 \lx hodidoNbe
 \ph hodidonbe
@@ -17510,6 +17510,13 @@
 \ge Ecuador
 \dt 26/7月/2019
 
+\lx ·qespanja
+\ph Espanja
+\ps jp'
+\gn 西班牙
+\ge Spain
+\dt 15/5月/2025
+
 \lx ·qesti
 \ph Esti
 \ps jp'
@@ -19501,19 +19508,19 @@
 \dt 22/7月/2019
 
 \lx ·roma
-\ph RONa
+\ph Roma
 \ps jp'
 \gn 罗马
-\ge RONe
+\ge Rome
 \xv ·roma:zevo
 \xn 罗马城
 \dt 25/7月/2019
 
 \lx ·romanice
-\ph RONanice
+\ph Romanice
 \ps jp'
 \gn 罗曼
-\ge RONance
+\ge Romance
 \xv ·romanice:hafova
 \xn 罗曼语族
 \cf ·roma
@@ -19527,10 +19534,10 @@
 \dt 14/5月/2025
 
 \lx ·romwníja
-\ph RONwníja
+\ph Romwníja
 \ps jp'
 \gn 罗马尼亚
-\ge RONania
+\ge Romania
 \xv ·romwníja:kovumisaso
 \xn 罗马尼亚共和国
 \dt 22/7月/2019
