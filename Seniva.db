@@ -103,15 +103,7 @@
 \dn 电子的。旧词缀，不建议使用。
 \nt 词源: ENG electric
 \nt Ftnk: e`l
-\dt 14/4月/2024
-
-\lx -a
-\ph -a
-\ps s'
-\gn 名词词尾
-\ge (Noun suffix; female suffix for gendered nouns)
-\dn 名词词尾。对有性名词，表示雌性。
-\nt Hnv3: 也
+\nt Hnv3: ㇥
 \dt 14/4月/2024
 
 \lx a
@@ -122,6 +114,15 @@
 \lc a
 \nt Ftnk: a
 \nt Han: 屬
+\dt 14/4月/2024
+
+\lx -a
+\ph -a
+\ps s'
+\gn 名词词尾
+\ge (Noun suffix; female suffix for gendered nouns)
+\dn 名词词尾。对有性名词，表示雌性。
+\nt Hnv3: 也
 \dt 14/4月/2024
 
 \lx -at-
@@ -208,6 +209,15 @@
 \xn 糖类
 \dt 07/12月/2023
 
+\lx oN
+\ph on
+\ps k'
+\gn 谓语动词
+\ge (predicate verb marker)
+\lc oN
+\nt Hnv3: 歟等
+\dt 07/12月/2023
+
 \lx -on-
 \ph -on-
 \ps s'
@@ -224,15 +234,6 @@
 \xn 学校
 \dt 29/12月/2022
 
-\lx oN
-\ph on
-\ps k'
-\gn 谓语动词
-\ge (predicate verb marker)
-\lc oN
-\nt Hnv3: 歟等
-\dt 07/12月/2023
-
 \lx -or-
 \ph -or-
 \ps s'
@@ -243,14 +244,6 @@
 \nt Han: 具
 \dt 29/12月/2022
 
-\lx -u
-\ph -u
-\ps s'
-\gn 副词词尾
-\ge (adverbial suffix)
-\nt Hnv3: 然
-\dt 07/12月/2023
-
 \lx u
 \ph u
 \ps k'
@@ -260,6 +253,14 @@
 \nt Ftnk: u
 \nt Hnv3: 於
 \dt 20/3月/2024
+
+\lx -u
+\ph -u
+\ps s'
+\gn 副词词尾
+\ge (adverbial suffix)
+\nt Hnv3: 然
+\dt 07/12月/2023
 
 \lx -um-
 \ph -um-
@@ -275,10 +276,10 @@
 \ph aq
 \ps hf'
 \gn 啊
-\ge Ah。
+\ge Ah
 \nt Ftnk: QAQ
 \nt Han: 也呵
-\dt 14/4月/2024
+\dt 26/5月/2025
 
 \lx qoq
 \ph oq
@@ -307,6 +308,41 @@
 \ge minus
 \nt Han: 减
 \dt 10/7月/2019
+
+\lx hihe
+\ph hihe
+\ps p'
+\gn （海拔）高的
+\ge high
+\nt 词源: ENG high
+\nt Ftnk: hh
+\nt Han: 高
+\cf kare
+\cn 长的；（长度）高的
+\dt 26/6月/2025
+
+\lx hiha
+\ph hiha
+\ps p'
+\gn 高原
+\ge plateau
+\nt 词源: hihe
+\cf hihe
+\nt Ftnk: hha
+\nt Han: 高a
+\dt 26/6月/2025
+
+\lx hihume
+\ph hihume
+\ps p'
+\gn 高级的
+\ge advanced, superior
+\nt 词源: hihe + -um-
+\cf hihe
+\cn 高
+\nt Ftnk: hh`m
+\nt Han: 高太
+\dt 26/6月/2025
 
 \lx hilitifaje
 \ph hilitifaje
@@ -348,18 +384,6 @@
 \cn 乒乓球
 \dt 10/7月/2019
 
-\lx he-
-\ph he-
-\ps s'
-\gn 使动
-\ge (causative prefix)
-\nt 词源: he
-\nt Han: 使
-\cf he
-\cn 使动
-\nt Ftnk: h`/he`
-\dt 10/7月/2019
-
 \lx he
 \ph he
 \sn 1
@@ -373,17 +397,33 @@
 \nt Han: 使e
 \dt 10/7月/2019
 
+\lx he-
+\ph he-
+\ps s'
+\gn 使动
+\ge (causative prefix)
+\nt 词源: he
+\nt Han: 使
+\cf he
+\cn 使动；命令式
+\nt Ftnk: h`/he`
+\dt 26/5月/2025
+
 \lx hehorore
 \ph hehorore
 \ps p'
 \gn 打火机
 \ge lighter
 \nt 词源: he- + hor + -or-
+\cf he-
+\cn 使动
 \cf hor
 \cn 燃烧
+\cf -or-
+\cn 工具
 \nt Ftnk: h`hr`r
 \nt Han: 使火具
-\dt 16/4月/2021
+\dt 26/5月/2025
 
 \lx hepit
 \ph hepit
@@ -414,9 +454,11 @@
 \gn 小心地
 \ge carefully
 \nt 词源: hat
+\cf hat
+\cn 注意
 \nt Ftnk: |htu
 \nt Han: 所慎u
-\dt 20/3月/2024
+\dt 26/5月/2025
 
 \lx hekef
 \ph hekef
@@ -464,23 +506,27 @@
 \nt 词源: hekef + -od-
 \cf hekef
 \cn 证明
+\cf -od-
+\cn 抽象名词
 \nt Ftnk: h`kf`d
 \nt Han: 使信事
-\dt 07/5月/2021
+\dt 26/5月/2025
 
 \lx hegor
 \ph hegor
 \ps v'
 \gn 教学
 \ge teach
-\nt 词源: he + gor
+\nt 词源: he- + gor
+\cf he-
+\cn 使动
 \cf gor
 \cn 学习
 \nt Ftnk: h`gr
 \nt Han: 使學
 \cf hegorike
 \cn 教师
-\dt 10/7月/2019
+\dt 26/5月/2025
 
 \lx hegorike
 \ph hegorike
@@ -504,11 +550,13 @@
 \gn 控制，驱使
 \ge control, drive
 \nt 词源: he
+\cf he
+\cn 使动；命令式
 \nt Ftnk: hs
 \nt Han: 令
 \xv ne kiha hes kasu kagi grica .
 \xn 酒后不驾车。
-\dt 09/7月/2019
+\dt 26/5月/2025
 
 \lx hesa
 \ph hesa
@@ -574,13 +622,15 @@
 \gn 追逐
 \ge chase
 \nt 词源: he- + mek
+\cf he-
+\cn 使动
 \cf mek
 \cn 跑
 \nt Ftnk: h`mk
 \nt Han: 使走
 \cf meke
 \cn 快
-\dt 19/3月/2024
+\dt 26/5月/2025
 
 \lx heroje
 \ph heroje
@@ -590,10 +640,12 @@
 \nt 词源: ELL ἥρως
 \nt Ftnk: h`rj
 \nt Han: 使敬
+\cf he-
+\cn 使动
 \cf roj
 \cn 尊敬
 \va junake
-\dt 14/5月/2025
+\dt 26/5月/2025
 
 \lx hap
 \ph hap
@@ -700,6 +752,18 @@
 \nt Ftnk: hci_|kj
 \nt Han: 連i所開
 \dt 14/5月/2025
+
+\lx hacikave
+\ph hacikave
+\ps p'
+\gn 串
+\ge bunch, string
+\nt 词源: hac + kave
+\cf hac
+\cf kave
+\nt Ftnk: hci_|kv
+\nt Han: 連i所集
+\dt 27/6月/2025
 
 \lx hacikoNbo
 \ph hacikonbo
@@ -1508,6 +1572,28 @@
 \nt Han: 柿
 \dt 10/7月/2019
 
+\lx pihe
+\ph pihe
+\ps p'
+\gn 饥饿的
+\ge hunger
+\nt 词源: ART:NIV peatr
+\nt Ftnk: ph
+\nt Han: 飢
+\dt 26/6月/2025
+
+\lx pihoda
+\ph pihoda
+\ps p'
+\gn 饥饿
+\ge hunger
+\nt 词源: pihe + -od-
+\cf pihe
+\cf -od-
+\nt Ftnk: ph`d
+\nt Han: 飢事
+\dt 30/6月/2025
+
 \lx pit
 \ph pit
 \ps v'
@@ -1643,6 +1729,17 @@
 \nt Han: 肺
 \dt 28/8月/2020
 
+\lx piNgo
+\ph pingo
+\ps p'
+\gn 苹果
+\ge apple
+\nt 词源: ZHO 蘋果
+\nt Ftnk: p'ng
+\nt Han: 蘋
+\va jabuka
+\dt 27/6月/2025
+
 \lx piNs
 \ph pins
 \ps v'
@@ -1699,16 +1796,6 @@
 \nt Han: 選
 \dt 02/7月/2019
 
-\lx peje
-\ph peje
-\ps p'
-\gn 饥饿的
-\ge hunger
-\nt 词源: ART:NIV peatr
-\nt Ftnk: pej/pj
-\nt Han: 飢
-\dt 02/7月/2019
-
 \lx peste
 \ph peste
 \ps p'
@@ -1718,6 +1805,30 @@
 \nt Ftnk: p'st
 \nt Han: 拳
 \dt 10/7月/2019
+
+\lx pevibibe
+\ph pevibibe
+\ps p'
+\gn 副歌
+\ge refrain, chorus
+\nt 词源: peva + bibe
+\cf peva
+\cf bibe
+\nt Ftnk: |pvi_bb
+\nt Han: 所歌i上
+\dt 01/7月/2025
+
+\lx pevinitfe
+\ph pevinitfe
+\ps p'
+\gn 主歌
+\ge verse (of music)
+\nt 词源: peva + nitfe
+\cf peva
+\cf nitfe
+\nt Ftnk: |pvi_n'tf
+\nt Han: 所歌i平 
+\dt 01/7月/2025
 
 \lx peva
 \ph peva
@@ -1955,19 +2066,19 @@
 \va jug（停用）
 \dt 24/7月/2019
 
-\lx popibura
-\ph popibura
+\lx popifuga
+\ph popifuga
 \ps p'
 \gn 南风
-\ge South Wind
-\nt 词源: pope + bura
+\ge south wind
+\nt 词源: pope + fuga
 \cf pope
 \cn 南
-\cf bura
+\cf fuga
 \cn 风
-\nt Ftnk: ppi_bur
+\nt Ftnk: ppi_fg
 \nt Han: 南i風
-\dt 13/4月/2024
+\dt 16/6月/2025
 
 \lx pope
 \ph pope
@@ -2760,10 +2871,10 @@
 \cf bibore
 \cn 梯子
 \nt Ftnk: bb`re`l
-\nt Han: 上具eLe
+\nt Han: 上具㇥
 \cf bib
 \cn 上升
-\dt 12/1月/2023
+\dt 26/5月/2025
 
 \lx bibu
 \ph bibu
@@ -2891,13 +3002,13 @@
 \gn 杯；瓶
 \ge cup, mug
 \nt 词源: ART:NIV buwa
-\nt Ftnk: bva/biva
+\nt Ftnk: bva
 \nt Han: 皿a
 \cf bivo
 \cn 碗
 \cf zodibiva
 \cn 瓶子
-\dt 15/5月/2025
+\dt 30/6月/2025
 
 \lx bivo
 \ph bivo
@@ -2907,9 +3018,9 @@
 \nt 词源: biva
 \cf biva
 \cn 杯
-\nt Ftnk: bvo/bivo
+\nt Ftnk: bvo
 \nt Han: 皿o
-\dt 14/5月/2025
+\dt 30/6月/2025
 
 \lx bivuma
 \ph bivuma
@@ -3075,30 +3186,6 @@
 \cn 点
 \nt Ftnk: b`vno
 \nt Han: 再點o
-\dt 12/1月/2023
-
-\lx beve
-\ph beve
-\ps p'
-\gn 苦的
-\ge bitter
-\nt 词源: ART:NIV bewaor
-\nt Ftnk: bev
-\cf beva
-\cn 碱
-\dt 14/5月/2025
-
-\lx beva
-\ph beva
-\ps p'
-\gn 碱
-\ge alkali
-\dn 碱。化学物质。
-\nt 词源: beve
-\cf beve
-\cn 苦
-\nt Ftnk: beva
-\nt Han: 苦a
 \dt 12/1月/2023
 
 \lx beNliz
@@ -3515,17 +3602,6 @@
 \nt Han: 色焉
 \dt 19/4月/2024
 
-\lx bove
-\ph bove
-\ps cp'
-\gn 牛
-\ge cattle
-\nt 词源: LAT bouīnus
-\nt Ftnk: bov/bv
-\nt Han: 牛
-\va bovine（停用）
-\dt 12/11月/2019
-
 \lx boNbe
 \ph bonbe
 \ps p'
@@ -3685,6 +3761,18 @@
 \cn 价格
 \dt 04/1月/2021
 
+\lx bulere
+\ph bulere
+\ps p'
+\gn 山脚，山麓
+\ge foothill
+\nt 词源: b + lere
+\cf b
+\cf lere
+\nt Ftnk: b`lr
+\nt Han: 依山
+\dt 27/6月/2025
+
 \lx bulode
 \ph bulode
 \ps p'
@@ -3708,40 +3796,6 @@
 \nt Ftnk: bl`da
 \nt Han: 貴事a
 \dt 10/7月/2019
-
-\lx bur
-\ph bur
-\ps v'
-\gn 吹
-\ge blow
-\nt 词源: bura
-\cf bura
-\cn 风
-\nt Ftnk: br.
-\nt Han: 風.
-\dt 13/4月/2024
-
-\lx burica
-\ph burica
-\ps p'
-\gn 微风
-\ge breeze
-\nt 词源: bura + -ic-
-\cf bura
-\cn 风
-\nt Ftnk: br`c
-\nt Han: 風子
-\dt 09/7月/2019
-
-\lx bura
-\ph bura
-\ps p'
-\gn 风
-\ge wind
-\nt 词源: HBS bura("冷风")
-\nt Ftnk: bur
-\nt Han: 風
-\dt 27/6月/2019
 
 \lx burut
 \ph burut
@@ -3777,18 +3831,6 @@
 \cf -od-
 \nt Ftnk: bu`rt`m`d
 \nt Han: 依用太事
-\dt 14/4月/2024
-
-\lx buruma
-\ph buruma
-\ps p'
-\gn 暴风
-\ge storm
-\nt 词源: bura + -um-
-\cf bura
-\cf -um-
-\nt Ftnk: br`m
-\nt Han: 風太
 \dt 14/4月/2024
 
 \lx blik
@@ -3862,8 +3904,8 @@
 \cf -ic-
 \cn 指小
 \nt Ftnk: bl'ne`l`c
-\nt Han: 腦eL子
-\dt 15/5月/2025
+\nt Han: 腦㇥子
+\dt 26/5月/2025
 
 \lx blanele
 \ph blanele
@@ -3874,10 +3916,10 @@
 \cf blane
 \cn 脑
 \nt Ftnk: bl'ne`l
-\nt Han: 腦eLe
+\nt Han: 腦㇥
 \cf daliblanele
 \cn 服务器
-\dt 14/5月/2025
+\dt 26/5月/2025
 
 \lx blanele vizba
 \ph blanele vizba
@@ -3890,8 +3932,8 @@
 \cf vizba
 \cn 牌子，板
 \nt Ftnk: bl'ne`l_v'zb
-\nt Han: 腦eLe板
-\dt 15/5月/2025
+\nt Han: 腦㇥板
+\dt 26/5月/2025
 
 \lx breza
 \ph breza
@@ -4158,6 +4200,19 @@
 \nt Han: 左
 \dt 13/4月/2024
 
+\lx tepilusore
+\ph tepilusore
+\ps p'
+\gn 洗衣机
+\ge laundry machine
+\nt 词源: tepe + lus + -or-
+\cf tepe
+\cf lus
+\cf -or-
+\nt Ftnk: |tpi_ls`r
+\nt Han: 所衣i淨具
+\dt 01/7月/2025
+
 \lx tepe
 \ph tepe
 \ps p'
@@ -4216,18 +4271,6 @@
 \nt Ftnk: tg`m
 \nt Han: 主太
 \dt 24/1月/2020
-
-\lx teme
-\ph teme
-\ps p'
-\gn 算式
-\ge equation
-\nt 词源: tam
-\cf tam
-\cn 计算，数
-\nt Ftnk: |tm
-\nt Han: 所數
-\dt 10/7月/2019
 
 \lx tenigupte
 \ph tenigupte
@@ -4333,9 +4376,11 @@
 \gn 切割工具，刀
 \ge cutter
 \nt 词源: tat + -or-
+\cf tat
+\cf -or-
 \nt Ftnk: tt`r
 \nt Han: 刀具
-\dt 23/7月/2022
+\dt 30/6月/2025
 
 \lx tatoro
 \ph tatoro
@@ -4397,6 +4442,18 @@
 \an deke
 \dt 01/2月/2020
 
+\lx tazoda
+\ph tazoda
+\ps p'
+\gn 质量
+\ge mass
+\nt 词源: taze + -od-
+\cf taze
+\cf -od-
+\nt Ftnk: tz`d
+\nt Han: 重事
+\dt 18/6月/2025
+
 \lx tave
 \ph tave
 \ps p'
@@ -4407,62 +4464,6 @@
 \nt Han: 曲
 \an lame
 \dt 10/7月/2019
-
-\lx tam
-\ph tam
-\ps v'
-\gn 计算，数
-\ge calculate, count
-\nt 词源: tame
-\cf tame
-\cn 数量
-\nt Ftnk: tm.
-\nt Han: 數.
-\cf tamo
-\cn 数字
-\dt 09/7月/2019
-
-\lx tamigara
-\ph tamigara
-\ps p'
-\gn 数学
-\ge mathematics
-\nt 词源: tam + gara
-\cf tam
-\cn 计算，数
-\cf gara
-\cn 学科
-\nt Ftnk: tmi_|gr
-\nt Han: 數i所學
-\dt 09/7月/2019
-
-\lx tame
-\ph tame
-\ps p'
-\gn 数量
-\ge quantity
-\nt 词源: ART:NIV tami
-\nt Ftnk: tm
-\nt Han: 數
-\cf tam
-\cn 计算，数
-\cf tamo
-\cn 数字
-\dt 09/7月/2019
-
-\lx tamo
-\ph tamo
-\ps p'
-\gn 数字
-\ge number
-\nt 词源: tame
-\cf tame
-\cn 数量
-\nt Ftnk: tmo
-\nt Han: 數o
-\cf tam
-\cn 计算，数
-\dt 09/7月/2019
 
 \lx taNbo
 \ph tanbo
@@ -4608,11 +4609,11 @@
 \nt 词源: tomo
 \cf tomo
 \cn 字符
-\nt Ftnk: tom
+\nt Ftnk: tm
 \nt Han: 元
 \cf toma
 \cn 原子
-\dt 09/7月/2019
+\dt 26/6月/2025
 
 \lx toma
 \ph toma
@@ -4622,11 +4623,11 @@
 \nt 词源: tomo
 \cf tomo
 \cn 字符
-\nt Ftnk: toma
+\nt Ftnk: tma
 \nt Han: 元a
 \cf tome
 \cn 元素
-\dt 09/7月/2019
+\dt 26/6月/2025
 
 \lx tomate
 \ph tomate
@@ -4655,13 +4656,13 @@
 \gn 字符
 \ge glyph, character
 \nt 词源: ART:NIV tom("字母")
-\nt Ftnk: tomo
+\nt Ftnk: tmo
 \nt Han: 元o
 \cf tome
 \cn 元素
 \cf toma
 \cn 原子
-\dt 09/7月/2019
+\dt 26/6月/2025
 
 \lx tomove
 \ph tomove
@@ -4669,11 +4670,11 @@
 \gn 书写系统
 \ge writing system
 \nt 词源: tomo + -ov-
-\nt Ftnk: tom`v/tm`v
+\nt Ftnk: tm`v
 \nt Han: 元衆
 \xv e·kyrilitomove e·latina-tomove u·srbija vis rot .
 \xn 西里尔字母和拉丁字母在塞尔维亚都使用。
-\dt 10/7月/2019
+\dt 26/6月/2025
 
 \lx torta
 \ph torta
@@ -4897,6 +4898,18 @@
 \cf sadilado
 \cn 今天
 \dt 15/5月/2025
+
+\lx debibiva
+\ph debibiva
+\ps p'
+\gn 罐子
+\ge jar
+\nt 词源: debe + biva
+\cf debe
+\cf biva
+\nt Ftnk: dbi_bva
+\nt Han: 厚i皿a
+\dt 30/6月/2025
 
 \lx debe
 \ph debe
@@ -5150,8 +5163,8 @@
 \cf blanele
 \cn 电脑
 \nt Ftnk: dli_bl'ne`l
-\nt Han: 遠i腦eLe
-\dt 09/4月/2021
+\nt Han: 遠i腦e㇥e
+\dt 26/5月/2025
 
 \lx daliglase
 \ph daliglase
@@ -5395,6 +5408,16 @@
 \cf dus
 \cn 吸
 \dt 26/11月/2019
+
+\lx duf
+\ph duf
+\ps v'
+\gn 假装
+\ge pretend
+\nt 词源: dufe
+\nt Ftnk: df.
+\nt Han: 僞矣
+\dt 30/6月/2025
 
 \lx dufe
 \ph dufe
@@ -6206,20 +6229,6 @@
 \sy popikoke
 \dt 13/4月/2024
 
-\lx kokibura
-\ph kokibura
-\ps p'
-\gn 西风
-\ge west wind
-\nt 词源: koke + bura
-\cf koke
-\cn 西
-\cf bura
-\cn 风
-\nt Ftnk: kki_bur
-\nt Han: 西i風
-\dt 13/4月/2024
-
 \lx kokifofe
 \ph kokifofe
 \ps p'
@@ -6234,6 +6243,20 @@
 \nt Han: 西i北
 \sy fofikoke
 \dt 13/4月/2024
+
+\lx kokifuga
+\ph kokifuga
+\ps p'
+\gn 西风
+\ge west wind
+\nt 词源: koke + fuga
+\cf koke
+\cn 西
+\cf fuga
+\cn 风
+\nt Ftnk: kki_fg
+\nt Han: 西i風
+\dt 16/6月/2025
 
 \lx koke
 \ph koke
@@ -6671,6 +6694,18 @@
 \nt Han: 角
 \dt 27/10月/2022
 
+\lx krave
+\ph krave
+\ps cp'
+\gn 牛
+\ge cattle
+\nt 词源: HBS krava
+\nt Ftnk: kr'v
+\nt Han: 牛
+\va bove（停用）
+\va bovine（停用）
+\dt 30/6月/2025
+
 \lx kralidomo
 \ph kralidomo
 \ps p'
@@ -6682,6 +6717,20 @@
 \nt Ftnk: kr'li_|dm
 \nt Han: 君i所居
 \dt 19/4月/2024
+
+\lx kralifaNha
+\ph kralifanha
+\ps p'
+\gn 封地
+\ge fief, realm
+\nt 词源: krale + fanha
+\cf krale
+\cn 君主
+\cf faNha
+\cn 地区，区域
+\nt Ftnk: kr'li_f'nha
+\nt Han: 君i方a
+\dt 15/5月/2025
 
 \lx krale
 \ph krale
@@ -6743,6 +6792,28 @@
 \cf gikum
 \cn 压制
 \dt 28/7月/2019
+
+\lx gikiheca
+\ph gikiheca
+\ps p'
+\gn 挂钩，挂钉
+\ge peg
+\nt 词源: gikihac
+\nt Ftnk: gki_|hc(a)
+\nt Han: 下i所連(a)
+\dt 27/6月/2025
+
+\lx gikihac
+\ph gikihac
+\ps v'
+\gn 悬挂
+\ge hang
+\nt 词源: gike + hac
+\cf gike
+\cf hac
+\nt Ftnk: gki_hc
+\nt Han: 下i連
+\dt 27/6月/2025
 
 \lx gikinito
 \ph gikinito
@@ -7071,6 +7142,18 @@
 \nt Han: 濃
 \dt 24/1月/2020
 
+\lx gogice
+\ph gogice
+\ps p'
+\gn 小石子
+\ge pebble
+\nt 词源: goge + -ic-
+\cf goge
+\cf -ic-
+\nt Ftnk: gg`c
+\nt Han: 石子
+\dt 30/6月/2025
+
 \lx gogijola
 \ph gogijola
 \ps p'
@@ -7345,9 +7428,9 @@
 \cn 小学
 \cf hurigorone
 \cn 中学
-\cf vikigorone
+\cf hihigorone
 \cn 大学
-\dt 01/11月/2021
+\dt 26/6月/2025
 
 \lx gorum
 \ph gorum
@@ -7366,6 +7449,30 @@
 \xv gorumonove anaturigara a·JuNqhva
 \xn 中国科学院
 \dt 26/8月/2019
+
+\lx gorke
+\ph gorke
+\ps p'
+\gn 苦的
+\ge bitter
+\nt 词源: HBS gorki
+\nt Ftnk: g'rk
+\cf gorka
+\cn 碱
+\dt 30/6月/2025
+
+\lx gorka
+\ph gorka
+\ps p'
+\gn 碱
+\ge alkali
+\dn 碱。化学物质。
+\nt 词源: gorke
+\cf gorke
+\cn 苦
+\nt Ftnk: g'rka
+\nt Han: 苦a
+\dt 30/6月/2025
 
 \lx gup
 \ph gup
@@ -7712,6 +7819,18 @@
 \nt Ftnk: gl's`t
 \nt Han: 音部
 \dt 23/7月/2022
+
+\lx glasase
+\ph glasase
+\ps p'
+\gn 吵
+\ge noisy
+\nt 词源: glase + -as-
+\cf glase
+\cf -as-
+\nt Ftnk: gl's`s
+\nt Han: 音焉
+\dt 27/6月/2025
 
 \lx glaso
 \ph glaso
@@ -8765,14 +8884,14 @@
 \lx cure
 \ph cure
 \ps p'
-\gn 确定的，静的
-\ge calm, quiet
+\gn 确定的
+\ge stable, calm, decided
 \nt Ftnk: cr(e)
 \nt Han: 定(e)
 \va some（停用）
 \cf cur
 \cn 确定，决定
-\dt 09/2月/2020
+\dt 27/6月/2025
 
 \lx curoda
 \ph curoda
@@ -8924,6 +9043,30 @@
 \nt Han: 葉a
 \dt 10/7月/2019
 
+\lx jetize
+\ph jetize
+\ps p'
+\gn 调味料
+\ge condiments, seasoning
+\nt 词源: jete + -iz-
+\cf jete
+\cf -iz-
+\nt Ftnk: |jt`z
+\nt Han: 所舌化
+\dt 30/6月/2025
+
+\lx jetinira
+\ph jetinira
+\ps p'
+\gn 酱
+\ge sauce
+\nt 词源: jete + nira
+\cf jete
+\cf nira
+\nt Ftnk: |jti_nra
+\nt Han: 所舌i粘a
+\dt 30/6月/2025
+
 \lx jete
 \ph jete
 \ps p'
@@ -9013,6 +9156,44 @@
 \nt Han: 一化事
 \dt 14/4月/2024
 
+\lx jeNbe
+\ph jenbe
+\ps p'
+\gn 咸的
+\ge salty
+\nt 词源: jenba
+\cf jeNba
+\cn 食盐
+\nt Ftnk: j'nb
+\nt Han: 鹹
+\dt 30/6月/2025
+
+\lx jeNba
+\ph jenba
+\ps p'
+\gn 食盐
+\ge salt
+\nt 词源: ZHO 鹽巴
+\nt Ftnk: j'nb
+\nt Han: 鹹a
+\cf jeNbe
+\cn 咸的
+\cf jeNbove
+\cn 盐类化合物
+\dt 30/6月/2025
+
+\lx jeNbove
+\ph jenbove
+\ps p'
+\gn 盐类化合物
+\ge salt (compound)
+\nt 词源: jenba + -ov-
+\cf jenba
+\cf -ov-
+\nt Ftnk: j'nb`v
+\nt Han: 鹹衆
+\dt 30/6月/2025
+
 \lx jelipume
 \ph jelipume
 \ps p'
@@ -9088,17 +9269,6 @@
 \nt Ftnk: jba
 \nt Han: 果a
 \dt 10/7月/2019
-
-\lx jabuka
-\ph jabuka
-\ps p'
-\gn 苹果
-\ge apple
-\nt 词源: HBS jabuka
-\nt Ftnk: jbk/JA_BU_KA
-\nt Han: 蘋
-\va piNgo
-\dt 13/6月/2022
 
 \lx jat
 \ph jat
@@ -9596,8 +9766,8 @@
 \ge taiji
 \nt 词源: jun + -um-
 \nt Ftnk: jun`m
-\nt Han: 极太
-\dt 12/4月/2024
+\nt Han: 極太
+\dt 01/7月/2025
 
 \lx s
 \ph s
@@ -9892,6 +10062,18 @@
 \nt Han: 齊事
 \dt 08/7月/2019
 
+\lx seroje
+\ph seroje
+\ps p'
+\gn 自尊
+\ge dignified
+\nt 词源: si + roj
+\cf si
+\cf roj
+\nt Ftnk: s`rj
+\nt Han: 己敬
+\dt 26/6月/2025
+
 \lx sat
 \ph sat
 \ps v'
@@ -10017,6 +10199,18 @@
 \nt Ftnk: sg`s
 \nt Han: 破焉
 \dt 14/4月/2024
+
+\lx sagope
+\ph sagope
+\ps p'
+\gn 危险的，有破坏力的
+\ge dangerous, destructive
+\nt 词源: sag + -op-
+\cf sag
+\cf -op-
+\nt Ftnk: sg`p
+\nt Han: 破可
+\dt 30/6月/2025
 
 \lx saj
 \ph saj
@@ -10178,32 +10372,6 @@
 \nt Ftnk: s'nd
 \nt Han: 蒜
 \dt 10/1月/2025
-
-\lx sale
-\ph sale
-\ps p'
-\gn 咸的
-\ge salty
-\nt 词源: sala
-\cf sala
-\cn 食盐
-\nt Ftnk: sale
-\nt Han: 鹹
-\dt 10/7月/2019
-
-\lx sala
-\ph sala
-\ps p'
-\gn 食盐
-\ge salt
-\nt 词源: LAT sāl
-\nt Ftnk: sala
-\nt Han: 鹹a
-\cf sale
-\cn 咸
-\cf salove
-\cn 盐类
-\dt 10/7月/2019
 
 \lx so
 \ph so
@@ -10691,6 +10859,51 @@
 \nt Han: 星
 \va toze（停用）
 \dt 27/12月/2020
+
+\lx stag
+\ph stag
+\ps v'
+\gn 夹
+\ge pinch, squeeze
+\nt 词源: ART:NIV stag ("剪")
+\nt Ftnk: st'g
+\nt Han: 夾
+\dt 30/6月/2025
+
+\lx stagitat
+\ph stagitat
+\ps v'
+\gn 剪
+\ge cut with scissors
+\nt 词源: stag + tat
+\cf stag
+\cf tat
+\nt Ftnk: st'gi_tt
+\nt Han: 夾i刀
+\dt 30/6月/2025
+
+\lx stagitatore
+\ph stagitatore
+\ps p'
+\gn 剪刀
+\ge scissors
+\nt 词源: stagitat + -or-
+\cf stagitat
+\cf -or-
+\nt Ftnk: st'gi_tt`r
+\nt Han: 夾i刀具
+\dt 30/6月/2025
+
+\lx stago
+\ph stago
+\ps p'
+\gn 夹子
+\ge clipper
+\nt 词源: stag
+\cf stag
+\nt Ftnk: st'go
+\nt Han: 夾o
+\dt 30/6月/2025
 
 \lx sneg
 \ph sneg
@@ -11524,18 +11737,6 @@
 \cn 产品
 \dt 10/7月/2019
 
-\lx zugike
-\ph zugike
-\ps cp'
-\gn 工人
-\ge worker
-\nt 词源: zug + -ik-
-\cf zug
-\cn 制作
-\nt Ftnk: zg`k
-\nt Han: 作者
-\dt 13/6月/2022
-
 \lx zugoda
 \ph zugoda
 \ps p'
@@ -11574,18 +11775,6 @@
 \cn 当然
 \dt 10/7月/2019
 
-\lx zuvod
-\ph zuvod
-\ps v'
-\gn 拿走
-\ge take away
-\nt 词源: z + vod
-\cf z
-\cf vod
-\nt Ftnk: z`vd
-\nt Han: 自持
-\dt 14/4月/2024
-
 \lx zumic
 \ph zumic
 \ps v'
@@ -11608,6 +11797,18 @@
 \nt Ftnk: zun/zn
 \nt Han: 故
 \dt 10/7月/2019
+
+\lx zuruk
+\ph zuruk
+\ps v'
+\gn 拿走
+\ge take away
+\nt 词源: z + ruk
+\cf z
+\cf ruk
+\nt Ftnk: z`rk
+\nt Han: 自手
+\dt 27/6月/2025
 
 \lx f
 \ph f
@@ -12143,17 +12344,17 @@
 \nt Han: 惡i音
 \dt 13/4月/2024
 
-\lx farivod
-\ph farivod
+\lx fariruk
+\ph fariruk
 \ps v'
 \gn 偷；抢
 \ge steal; rob
-\nt 词源: fare + vod
+\nt 词源: fare + ruk
 \cf fare
-\cf vod
-\nt Ftnk: fri_vd
-\nt Han: 惡i持
-\dt 18/4月/2024
+\cf ruk
+\cf Ftnk: fri_rk
+\nt Han: 惡i手
+\nt 18/4月/2024
 
 \lx fare
 \ph fare
@@ -12339,19 +12540,19 @@
 \va sol（停用）
 \dt 24/7月/2019
 
-\lx fofibura
-\ph fofibura
+\lx fofifuga
+\ph fofifuga
 \ps p'
 \gn 北风
 \ge north wind
-\nt 词源: fofe + bura
+\nt 词源: fofe + fuga
 \cf fofe
 \cn 北
-\cf bura
+\cf fuga
 \cn 风
-\nt Ftnk: ffi_bur
+\nt Ftnk: ffi_fg
 \nt Han: 北i風
-\dt 13/4月/2024
+\dt 16/6月/2025
 
 \lx fofe
 \ph fofe
@@ -12451,6 +12652,65 @@
 \nt Han: 向行
 \dt 13/4月/2024
 
+\lx fug
+\ph fug
+\ps v'
+\gn 吹，呼出
+\ge blow
+\nt 词源: fuga
+\cf fuga
+\cn 风
+\nt Ftnk: fg.
+\nt Han: 風.
+\dt 30/6月/2025
+
+\lx fugica
+\ph fugica
+\ps p'
+\gn 微风
+\ge breeze
+\nt 词源: fuga + -ic-
+\cf fuga
+\cn 风
+\nt Ftnk: fg`c
+\nt Han: 風子
+\dt 16/6月/2025
+
+\lx fuga
+\ph fuga
+\ps p'
+\gn 风
+\ge wind
+\nt 词源: ZHO 風
+\nt Ftnk: fg
+\nt Han: 風
+\dt 16/6月/2025
+
+\lx fuguma
+\ph fuguma
+\ps p'
+\gn 暴风
+\ge storm
+\nt 词源: fuga + -um-
+\cf fuga
+\cf -um-
+\nt Ftnk: fg`m
+\nt Han: 風太
+\dt 16/6月/2025
+
+\lx fumidusore
+\ph fumidusore
+\ps p'
+\gn 抽油烟机
+\ge kitchen ventilator
+\nt 词源: fume + dus + -or-
+\cf fume
+\cf dus
+\cf -or-
+\nt Ftnk: fmi_ds`r
+\nt Han: 煙i氣具
+\dt 30/6月/2025
+
 \lx fumic
 \ph fumic
 \ps v'
@@ -12462,6 +12722,18 @@
 \nt Ftnk: f`mc
 \nt Han: 向市
 \dt 27/6月/2019
+
+\lx fumiflore
+\ph fumiflore
+\ps p'
+\gn 烟花
+\ge fireworks
+\nt 词源: fume + flore
+\cf fume
+\cf flore
+\nt Ftnk: fmi_|fl'r
+\nt Han: 煙i所花
+\dt 26/6月/2025
 
 \lx fume
 \ph fume
@@ -12614,6 +12886,18 @@
 \nt Han: 司
 \dt 28/7月/2019
 
+\lx flasove
+\ph flasove
+\ps p'
+\gn 商务区
+\ge business zone
+\nt 词源: flase + -ov-
+\cf flase
+\cf -ov-
+\nt Ftnk: fl's`v
+\nt Han: 司衆
+\dt 27/6月/2025
+
 \lx flore
 \ph flore
 \ps cp'
@@ -12719,41 +13003,6 @@
 \cf vino
 \cn 点
 \dt 13/6月/2022
-
-\lx vike
-\ph vike
-\ps p'
-\gn （海拔）高的
-\ge high
-\nt 词源: ART:NIV wikar
-\nt Ftnk: vk
-\nt Han: 高
-\cf kare
-\cn 长的；（长度）高的
-\dt 10/7月/2019
-
-\lx vika
-\ph vika
-\ps p'
-\gn 高原
-\ge plateau
-\nt 词源: vike
-\cf vike
-\nt Ftnk: vika
-\nt Han: 高a
-\dt 14/4月/2024
-
-\lx vikume
-\ph vikume
-\ps p'
-\gn 高级的
-\ge advanced, superior
-\nt 词源: vike + -um-
-\cf vike
-\cn 高
-\nt Ftnk: vk`m
-\nt Han: 高太
-\dt 12/2月/2020
 
 \lx visisumu
 \ph visisumu
@@ -13548,23 +13797,23 @@
 \lx vod
 \ph vod
 \ps v'
-\gn 拿，带领
-\ge hold, lead
+\gn 引导
+\ge lead, guide
 \nt 词源: HBS voditi
 \nt Ftnk: vd
-\nt Han: 持
+\nt Han: 引
 \va nos（停用）
-\dt 23/6月/2021
+\dt 27/6月/2025
 
 \lx vodike
 \ph vodike
 \ps p'
-\gn 领导者；主持人
-\ge leaders; host, compere
+\gn 领导者
+\ge leader
 \nt 词源: vod + -ik-
 \nt Ftnk: vd`k
-\nt Han: 持者
-\dt 13/4月/2024
+\nt Han: 引者
+\dt 27/6月/2025
 
 \lx vok
 \ph vok
@@ -13705,6 +13954,16 @@
 \nt Han: 呼
 \dt 08/7月/2019
 
+\lx vulpe
+\ph vulpe
+\ps cp'
+\gn 狐狸
+\ge fox
+\nt 词源: LAT vulpēs
+\nt Ftnk: v'lp
+\nt Han: 狐
+\dt 26/6月/2025
+
 \lx mi
 \ph mi
 \ps vn'
@@ -13756,11 +14015,11 @@
 \gn 施力
 \ge apply force on
 \nt 词源: ART:NIV umig("推")
-\nt Ftnk: mig
+\nt Ftnk: mg
 \nt Han: 力
 \cf miga
 \cn 力
-\dt 10/7月/2019
+\dt 26/6月/2025
 
 \lx migizuke
 \ph migizuke
@@ -13784,11 +14043,11 @@
 \nt 词源: mig
 \cf mig
 \cn 施力
-\nt Ftnk: miga
+\nt Ftnk: mga
 \nt Han: 力a
 \xv miga njutn 1 ejaje cice 2 vod .
 \xn 1牛顿的力可以拿起两个小鸡蛋。
-\dt 05/7月/2021
+\dt 26/6月/2025
 
 \lx migope
 \ph migope
@@ -13800,9 +14059,9 @@
 \cn 施力
 \cf -op-
 \cn 可……的
-\nt Ftnk: mig`p
+\nt Ftnk: mg`p
 \nt Han: 力可
-\dt 14/5月/2025
+\dt 26/6月/2025
 
 \lx mic
 \ph mic
@@ -13885,6 +14144,18 @@
 \nt Ftnk: mce-lb
 \nt Han: 市e-室
 \dt 04/1月/2021
+
+\lx micove
+\ph micove
+\ps p'
+\gn （经济学）市场
+\ge market (economics)
+\nt 词源: mic + -ov-
+\cf mic
+\cf -ov-
+\nt Ftnk: mc`v
+\nt Han: 市衆
+\dt 27/6月/2025
 
 \lx micone
 \ph micone
@@ -14175,16 +14446,6 @@
 \nt Han: 沒焉
 \dt 14/4月/2024
 
-\lx mage
-\ph mage
-\ps p'
-\gn 质量
-\ge mass
-\nt 词源: ART:NIV magnodi
-\nt Ftnk: mg
-\nt Han: 質
-\dt 10/7月/2019
-
 \lx magarikable
 \ph magarikable
 \ps cp'
@@ -14263,82 +14524,6 @@
 \ge some
 \nt 词源: ZHO 幾
 \dt 18/10月/2023
-
-\lx mogihaf
-\ph mogihaf
-\ps v'
-\gn 宣传
-\ge advertise, popularise
-\nt 词源: moge + haf
-\cf moge
-\cn 多
-\cf haf
-\cn 说
-\nt Ftnk: mgi_hf
-\nt Han: 多i言
-\dt 01/3月/2022
-
-\lx mogihafe
-\ph mogihafe
-\ps p'
-\gn 广告
-\ge advertisement
-\nt 词源: mogihaf
-\cf mogihaf
-\cn 宣传
-\nt Ftnk: mgi_hf
-\nt Han: 多i言
-\dt 01/3月/2022
-
-\lx mogitase
-\ph mogitase
-\ps p'
-\gn 知名的
-\ge well-known
-\nt 词源: moge + tos
-\cf moge
-\cn 多
-\cf tos
-\cn 知道
-\nt Ftnk: mgi_|ts
-\nt Han: 多i所知
-\dt 24/1月/2020
-
-\lx mogirad
-\ph mogirad
-\ps p'
-\gn 忙于
-\ge be busy with
-\nt 词源: moge + rad
-\cf moge
-\cn 多
-\cf rad
-\cn 工作
-\nt Ftnk: mgi_|rd
-\nt Han: 多i工.
-\dt 13/4月/2024
-
-\lx mogirade
-\ph mogirade
-\ps p'
-\gn 忙
-\ge busy
-\nt 词源: mogirad
-\cf mogirad
-\cn 忙于
-\nt Ftnk: mgi_|rd
-\nt Han: 多i工
-\dt 13/4月/2024
-
-\lx moge
-\ph moge
-\ps p'
-\gn 多的
-\ge many, much
-\nt 词源: HBS mnogi
-\nt Ftnk: mg
-\nt Han: 多
-\dt 02/7月/2019
 
 \lx moza
 \ph moza
@@ -14422,13 +14607,13 @@
 \lx molim
 \ph molim
 \ps h'
-\gn 请
+\gn （过时）请
 \ge please
 \nt 词源: HBS molim
 \nt Ftnk: ml(i)`m
 \nt Han: 請i太
 \nt Hnv3: 請之太
-\dt 09/7月/2019
+\dt 28/5月/2025
 
 \lx muhe
 \ph muhe
@@ -14776,6 +14961,18 @@
 \nt Han: 非所受
 \dt 15/5月/2025
 
+\lx napake
+\ph napake
+\ps p'
+\gn 不安全的，受威胁的
+\ge unsafe, threatened
+\nt 词源: na- + pake
+\cf na-
+\cf pake
+\nt Ftnk: na`|pk
+\nt Han: 非所保
+\dt 30/6月/2025
+
 \lx napase
 \ph napase
 \ps p'
@@ -14945,6 +15142,18 @@
 \cf natuc
 \dt 22/4月/2022
 
+\lx naturigara
+\ph naturigara
+\ps p'
+\gn 自然科学
+\ge natural science
+\nt 词源: natura + gara
+\cf natura
+\cf gara
+\nt Ftnk: na`tri_|gr
+\nt Han: 非轉i所學
+\dt 27/6月/2025
+
 \lx nature
 \ph nature
 \ps p'
@@ -15023,6 +15232,20 @@
 \cn 简单
 \dt 07/5月/2021
 
+\lx naglasase
+\ph naglasase
+\ps p'
+\gn 安静
+\ge quiet
+\nt 词源: na- + glasase
+\cf na-
+\cf glasase
+\nt Ftnk: na`gl's`s
+\nt Han: 非音焉
+\cf glase
+\cf cure
+\dt 27/6月/2025
+
 \lx naceqove
 \ph naceove
 \ps p'
@@ -15046,6 +15269,16 @@
 \nt Ftnk: na`cr
 \nt Han: 非定
 \dt 14/4月/2024
+
+\lx naj
+\ph naj
+\ps v'
+\gn 忍耐，坚持
+\ge endure, tolerate
+\nt 词源: ZHO 耐
+\nt Ftnk: nj
+\nt Han: 耐
+\dt 27/6月/2025
 
 \lx najuc
 \ph najuc
@@ -15314,6 +15547,18 @@
 \nt Han: 釋
 \dt 08/9月/2019
 
+\lx naluc
+\ph naluc
+\ps v'
+\gn 输，败
+\ge lose, fail
+\nt 词源: na- + luc
+\cf na-
+\cf luc
+\nt Ftnk: na`lc
+\nt Han: 非勝
+\dt 16/6月/2025
+
 \lx naluse
 \ph naluse
 \ps p'
@@ -15389,6 +15634,82 @@
 \xn 我没看见狗。
 \cf ni
 \dt 13/6月/2022
+
+\lx nogihaf
+\ph nogihaf
+\ps v'
+\gn 宣传
+\ge advertise, popularise
+\nt 词源: noge + haf
+\cf noge
+\cn 多
+\cf haf
+\cn 说
+\nt Ftnk: ngi_hf
+\nt Han: 多i言
+\dt 26/6月/2025
+
+\lx nogihafe
+\ph nogihafe
+\ps p'
+\gn 广告
+\ge advertisement
+\nt 词源: nogihaf
+\cf nogihaf
+\cn 宣传
+\nt Ftnk: ngi_hf
+\nt Han: 多i言
+\dt 26/6月/2025
+
+\lx nogitase
+\ph nogitase
+\ps p'
+\gn 知名的
+\ge well-known
+\nt 词源: noge + tos
+\cf noge
+\cn 多
+\cf tos
+\cn 知道
+\nt Ftnk: ngi_|ts
+\nt Han: 多i所知
+\dt 26/6月/2025
+
+\lx nogirad
+\ph nogirad
+\ps p'
+\gn 忙于
+\ge be busy with
+\nt 词源: noge + rad
+\cf noge
+\cn 多
+\cf rad
+\cn 工作
+\nt Ftnk: ngi_|rd
+\nt Han: 多i工.
+\dt 26/6月/2025
+
+\lx nogirade
+\ph nogirade
+\ps p'
+\gn 忙
+\ge busy
+\nt 词源: nogirad
+\cf mogirad
+\cn 忙于
+\nt Ftnk: ngi_|rd
+\nt Han: 多i工
+\dt 26/6月/2025
+
+\lx noge
+\ph noge
+\ps p'
+\gn 多的
+\ge many, much
+\nt 词源: HBS mnogi
+\nt Ftnk: ng
+\nt Han: 多
+\dt 26/6月/2025
 
 \lx noco
 \ph noco
@@ -15472,6 +15793,18 @@
 \nt Ftnk: nv`m
 \nt Han: 新太
 \dt 13/4月/2024
+
+\lx nome
+\ph nome
+\ps p'
+\gn 算式
+\ge equation
+\nt 词源: num
+\cf num
+\cn 计算，数
+\nt Ftnk: |nm
+\nt Han: 所數
+\dt 26/6月/2025
 
 \lx nu-
 \ph nu-
@@ -15597,6 +15930,62 @@
 \nt Han: 年(o)
 \dt 10/7月/2019
 
+\lx num
+\ph num
+\ps v'
+\gn 计算，数
+\ge calculate, count
+\nt 词源: nume
+\cf nume
+\cn 数量
+\nt Ftnk: nm.
+\nt Han: 數.
+\cf numo
+\cn 数字
+\dt 26/6月/2025
+
+\lx numigara
+\ph numigara
+\ps p'
+\gn 数学
+\ge mathematics
+\nt 词源: num + gara
+\cf num
+\cn 计算，数
+\cf gara
+\cn 学科
+\nt Ftnk: nmi_|gr
+\nt Han: 數i所學
+\dt 26/6月/2025
+
+\lx nume
+\ph nume
+\ps p'
+\gn 数量
+\ge quantity
+\nt 词源: LAT numerus
+\nt Ftnk: nm
+\nt Han: 數
+\cf num
+\cn 计算，数
+\cf numo
+\cn 数字
+\dt 26/6月/2025
+
+\lx numo
+\ph numo
+\ps p'
+\gn 数字
+\ge number
+\nt 词源: nume
+\cf nume
+\cn 数量
+\nt Ftnk: nmo
+\nt Han: 數o
+\cf num
+\cn 计算，数
+\dt 26/6月/2025
+
 \lx njoke
 \ph njoke
 \ps p'
@@ -15716,14 +16105,14 @@
 \ps v'
 \gn 感谢
 \ge thank
-\nt Ftnk: l`nm
+\nt Ftnk: lnm
 \nt Han: 謝
 \sn 2
 \ps hf'
 \gn 谢谢
 \ge thanks
-\nt Ftnk: l`nm
-\dt 09/7月/2019
+\nt Ftnk: lnm
+\dt 26/6月/2025
 
 \lx linovikovumisaso
 \ph linovikovumisaso
@@ -15830,6 +16219,30 @@
 \nt Han: 緩
 \an meke
 \dt 12/11月/2019
+
+\lx leribibe
+\ph leribibe
+\ps p'
+\gn 山峰
+\ge peak
+\nt 词源: lere + bibe
+\cf lere
+\cf bibe
+\nt Ftnk: lri_bb
+\nt Han: 山i上
+\dt 01/7月/2025
+
+\lx lerigike
+\ph lerigike
+\ps p'
+\gn 山谷
+\ge valley
+\nt 词源: lere + gike
+\cf lere
+\cf gike
+\nt Ftnk: lri_gk
+\nt Han: 山i下
+\dt 01/7月/2025
 
 \lx lere
 \ph lere
@@ -16153,6 +16566,20 @@
 \nt Ftnk: lp`k`v/lop`k`v
 \nt Han: 理者衆
 \dt 07/5月/2021
+
+\lx lopifaNha
+\ph lopifanha
+\ps p'
+\gn 领地
+\ge territory, plot
+\nt 词源: lop + fanha
+\cf lop
+\cn 管理
+\cf faNha
+\cn 地区，区域
+\nt Ftnk: lpi_f'nha
+\nt Han: 理i方a
+\dt 15/5月/2025
 
 \lx lope
 \ph lope
@@ -16693,6 +17120,20 @@
 \cn 休息
 \dt 01/2月/2020
 
+\lx radike
+\ph radike
+\ps p'
+\gn 工人
+\ge worker
+\nt 词源: rad + -ik-
+\cf rad
+\cn 工作
+\cf -ik-
+\nt Ftnk: rd`k
+\nt Han: 工者
+\va zugike（停用）
+\dt 01/7月/2025
+
 \lx radaj
 \ph radaj
 \ps v'
@@ -17152,20 +17593,6 @@
 \sy popirore
 \dt 13/4月/2024
 
-\lx roribura
-\ph roribura
-\ps p'
-\gn 东风
-\ge east wind
-\nt 词源: rore + bura
-\cf rore
-\cn 东
-\cf bura
-\cn 风
-\nt Ftnk: rri_bur
-\nt Han: 東i風
-\dt 13/4月/2024
-
 \lx rorifofe
 \ph rorifofe
 \ps p'
@@ -17180,6 +17607,20 @@
 \nt Han: 東i北
 \sy fofirore
 \dt 13/4月/2024
+
+\lx rorifuga
+\ph rorifuga
+\ps p'
+\gn 东风
+\ge east wind
+\nt 词源: rore + fuga
+\cf rore
+\cn 东
+\cf fuga
+\cn 风
+\nt Ftnk: rri_fg
+\nt Han: 東i風
+\dt 16/6月/2025
 
 \lx rore
 \ph rore
@@ -17216,6 +17657,19 @@
 \nt Han: 由行
 \dt 15/2月/2022
 
+\lx rupiturore
+\ph rupiturore
+\ps p'
+\gn 空调
+\ge air condition
+\nt 词源: rupe + tur + -or-
+\cf rupe
+\cf tur
+\cf -or-
+\nt Ftnk: rpi_tr`r
+\nt Han: 熱i轉者
+\dt 01/7月/2025
+
 \lx rupikegiz
 \ph rupikegiz
 \ps v'
@@ -17229,6 +17683,18 @@
 \nt Ftnk: rpi_|kg`z
 \nt Han: 熱i所食化
 \dt 15/5月/2025
+
+\lx rupikegizore
+\ph rupikegizore
+\ps v'
+\gn 烤箱
+\ge toaster oven
+\nt 词源: rupikegiz + -or-
+\cf rupikegiz
+\cf -or-
+\nt Ftnk: rpi_|kg`z`r
+\nt Han: 熱i所食化
+\dt 30/6月/2025
 
 \lx rupicape
 \ph rupicape
@@ -17244,6 +17710,19 @@
 \nt Han: 熱i度
 \va dulode（停用）
 \dt 30/5月/2021
+
+\lx rupizore
+\ph rupizore
+\ps p'
+\gn 炉子
+\ge oven
+\nt 词源: rup + -iz- + -or-
+\cf rup
+\cf -iz-
+\cf -or-
+\nt Ftnk: rp`z`r
+\nt Han: 熱化具
+\dt 30/6月/2025
 
 \lx rupifoso
 \ph rupifoso
@@ -17316,6 +17795,18 @@
 \cn 依靠
 \dt 28/7月/2019
 
+\lx ruk
+\ph ruk
+\ps v'
+\gn 抓，拿，携带
+\ge grab, take, carry
+\nt 词源: ruke
+\cf ruke
+\nt Ftnk: rk(.)
+\nt Han: 手(.)
+\cf vod
+\dt 27/6月/2025
+
 \lx rukihure
 \ph rukihure
 \ps p'
@@ -17366,7 +17857,8 @@
 \nt 词源: HBS ruka
 \nt Ftnk: rk
 \nt Han: 手
-\dt 27/6月/2019
+\cf ruk
+\dt 27/6月/2025
 
 \lx ruse
 \ph ruse
@@ -17719,6 +18211,13 @@
 \ge Jordan
 \dt 23/12月/2019
 
+\lx ·qurgvanda
+\ph Urgvanda
+\ps jp'
+\gn 卢旺达
+\ge Rwanda
+\dt 18/6月/2025
+
 \lx ·qáfrika
 \ph Áfrika
 \ps jp'
@@ -17758,6 +18257,14 @@
 \xn 希腊共和国
 \va qelada
 \dt 23/12月/2019
+
+\lx ·hajikrala
+\ph Hajikrala
+\ps jp'
+\gn 海王星
+\ge Neptune (planet)
+\nt Ftnk: ·hji_kr'la
+\dt 30/6月/2025
 
 \lx ·hajastán
 \ph Hajastán
@@ -17812,6 +18319,14 @@
 \va ·hrvatska
 \va ·horvatska
 \dt 21/4月/2025
+
+\lx ·hora
+\ph Hora
+\ps jp'
+\gn 火星
+\ge Mars (planet)
+\nt Ftnk: ·hra
+\dt 30/6月/2025
 
 \lx ·huriqafrika
 \ph Huriafrika
@@ -18153,6 +18668,14 @@
 \ge Bouyei
 \dt 21/9月/2021
 
+\lx ·buma
+\ph Buma
+\ps jp'
+\gn 土星
+\ge Saturn (planet)
+\nt Ftnk: ·bma
+\dt 30/6月/2025
+
 \lx ·burundi
 \ph Burundi
 \ps jp'
@@ -18294,6 +18817,14 @@
 \ge Maldives
 \dt 26/7月/2019
 
+\lx ·dera
+\ph Dera
+\ps jp'
+\gn 木星
+\ge Jupiter (planet)
+\nt Ftnk: ·dra
+\dt 30/6月/2025
+
 \lx ·daj
 \ph Daj
 \ps jp'
@@ -18363,6 +18894,14 @@
 \cn 等于
 \va ·zemihurirave
 \dt 26/7月/2019
+
+\lx ·kima
+\ph Kima
+\ps jp'
+\gn 金星
+\ge Venus (planet)
+\nt Ftnk: ·kma
+\dt 30/6月/2025
 
 \lx ·kinbvise
 \ph Kinbvise
@@ -19095,6 +19634,14 @@
 \va ·forsí
 \dt 11/6月/2020
 
+\lx ·fosa
+\ph Fosa
+\ps jp'
+\gn 水星
+\ge Mercury (planet)
+\nt Ftnk: ·fsa
+\dt 30/6月/2025
+
 \lx ·fransa
 \ph Fransa
 \ps jp'
@@ -19346,12 +19893,28 @@
 \ge Nepal
 \dt 26/7月/2019
 
+\lx ·nebikrala
+\ph Nebikrala
+\ps jp'
+\gn 天王星
+\ge Uranus (planet)
+\nt Ftnk: ·nbi_kr'la
+\dt 30/6月/2025
+
 \lx ·naqoqero
 \ph Naoero
 \ps jp'
 \gn 瑙鲁
 \ge Nauru
 \dt 26/7月/2019
+
+\lx ·napasikrala
+\ph Napasikrala
+\ps jp'
+\gn 冥王星
+\ge Pluto (dwarf planet)
+\nt Ftnk: ·na`|psi_kr'la
+\dt 30/6月/2025
 
 \lx ·najJirija
 \ph Najdcirija
@@ -19557,13 +20120,6 @@
 \xv hafa·runasimi
 \xn 克丘亚语
 \dt 15/5月/2025
-
-\lx ·rgvanda
-\ph Rgvanda
-\ps jp'
-\gn 卢旺达
-\ge Rwanda
-\dt 26/7月/2019
 
 \lx ·xiqan
 \ph Xian
